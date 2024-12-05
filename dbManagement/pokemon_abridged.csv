@@ -1,0 +1,898 @@
+national_number,gen,english_name,primary_type,secondary_type,description,image_link
+1,I,Bulbasaur,grass,poison,There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.,static/Pokemon/bulbasaur.png
+2,I,Ivysaur,grass,poison,"When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",static/Pokemon/ivysaur.png
+3,I,Venusaur,grass,poison,Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.,static/Pokemon/venusaur.png
+4,I,Charmander,fire,,"It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",static/Pokemon/charmander.png
+5,I,Charmeleon,fire,,"It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",static/Pokemon/charmeleon.png
+6,I,Charizard,fire,flying,It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.,static/Pokemon/charizard.png
+7,I,Squirtle,water,,"When it retracts its long neck into its shell, it squirts out water with vigorous force.",static/Pokemon/squirtle.png
+8,I,Wartortle,water,,"It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",static/Pokemon/wartortle.png
+9,I,Blastoise,water,,"It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",static/Pokemon/blastoise.png
+10,I,Caterpie,bug,,"For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",static/Pokemon/caterpie.png
+11,I,Metapod,bug,,"It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",static/Pokemon/metapod.png
+12,I,Butterfree,bug,flying,"In battle, it flaps its wings at great speed to release highly toxic dust into the air.",static/Pokemon/butterfree.png
+13,I,Weedle,bug,poison,Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.,static/Pokemon/weedle.png
+14,I,Kakuna,bug,poison,"Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",static/Pokemon/kakuna.png
+15,I,Beedrill,bug,poison,It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.,static/Pokemon/beedrill.png
+16,I,Pidgey,normal,flying,"Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",static/Pokemon/pidgey.png
+17,I,Pidgeotto,normal,flying,This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.,static/Pokemon/pidgeotto.png
+18,I,Pidgeot,normal,flying,"This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",static/Pokemon/pidgeot.png
+19,I,Rattata,normal,dark,"Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",static/Pokemon/rattata.png
+20,I,Raticate,normal,dark,"Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",static/Pokemon/raticate.png
+21,I,Spearow,normal,flying,"Inept at flying high. However, it can fly around very fast to protect its territory.",static/Pokemon/spearow.png
+22,I,Fearow,normal,flying,"A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly.",static/Pokemon/fearow.png
+23,I,Ekans,poison,,"The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest.",static/Pokemon/ekans.png
+24,I,Arbok,poison,,The frightening patterns on its belly have been studied. Six variations have been confirmed.,static/Pokemon/arbok.png
+25,I,Pikachu,electric,,Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.,static/Pokemon/pikachu.png
+26,I,Raichu,electric,electric,Its long tail serves as a ground to protect itself from its own high-voltage power.,static/Pokemon/raichu.png
+27,I,Sandshrew,ground,ice,"It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.",static/Pokemon/sandshrew.png
+28,I,Sandslash,ground,ice,"The drier the area Sandslash lives in, the harder and smoother the Pokémon’s spikes will feel when touched.",static/Pokemon/sandslash.png
+30,I,Nidorina,poison,,The horn on its head has atrophied. It’s thought that this happens so Nidorina’s children won’t get poked while their mother is feeding them.,static/Pokemon/nidorina.png
+31,I,Nidoqueen,poison,ground,"Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.",static/Pokemon/nidoqueen.png
+32,I,Nidoran,poison,,"The horn on a male Nidoran’s forehead contains a powerful poison. This is a very cautious Pokémon, always straining its large ears.",static/Pokemon/nidoran.png
+33,I,Nidorino,poison,,"With a horn that’s harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.",static/Pokemon/nidorino.png
+34,I,Nidoking,poison,ground,"When it goes on a rampage, it’s impossible to control. But in the presence of a Nidoqueen it’s lived with for a long time, Nidoking calms down.",static/Pokemon/nidoking.png
+35,I,Clefairy,fairy,,It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.,static/Pokemon/clefairy.png
+36,I,Clefable,fairy,,"A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.",static/Pokemon/clefable.png
+37,I,Vulpix,fire,ice,"While young, it has six gorgeous tails. When it grows, several new tails are sprouted.",static/Pokemon/vulpix.png
+38,I,Ninetales,fire,ice,"It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.",static/Pokemon/ninetales.png
+39,I,Jigglypuff,normal,fairy,"Jigglypuff has top-notch lung capacity, even by comparison to other Pokémon. It won’t stop singing its lullabies until its foes fall asleep.",static/Pokemon/jigglypuff.png
+40,I,Wigglytuff,normal,fairy,"The more air it takes in, the more it inflates. If opponents catch it in a bad mood, it will inflate itself to an enormous size to intimidate them.",static/Pokemon/wigglytuff.png
+41,I,Zubat,poison,flying,"It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.",static/Pokemon/zubat.png
+42,I,Golbat,poison,flying,"It loves to drink other creatures’ blood. It’s said that if it finds others of its kind going hungry, it sometimes shares the blood it’s gathered.",static/Pokemon/golbat.png
+43,I,Oddish,grass,poison,"If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.",static/Pokemon/oddish.png
+44,I,Gloom,grass,poison,Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.,static/Pokemon/gloom.png
+45,I,Vileplume,grass,poison,"It has the world’s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.",static/Pokemon/vileplume.png
+46,I,Paras,bug,grass,Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.,static/Pokemon/paras.png
+47,I,Parasect,bug,grass,The bug host is drained of energy by the mushroom on its back. The mushroom appears to do all the thinking.,static/Pokemon/parasect.png
+48,I,Venonat,bug,poison,"Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes.",static/Pokemon/venonat.png
+49,I,Venomoth,bug,poison,The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact.,static/Pokemon/venomoth.png
+50,I,Diglett,ground,ground,"If a Diglett digs through a field, it leaves the soil perfectly tilled and ideal for planting crops.",static/Pokemon/diglett.png
+51,I,Dugtrio,ground,ground,A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.,static/Pokemon/dugtrio.png
+52,I,Meowth,normal,dark,"It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures.",static/Pokemon/meowth.png
+53,I,Persian,normal,dark,"Getting this prideful Pokémon to warm up to you takes a lot of effort, and it will claw at you the moment it gets annoyed.",static/Pokemon/persian.png
+54,I,Psyduck,water,,"Psyduck is constantly beset by headaches. If the Pokémon lets its strange power erupt, apparently the pain subsides for a while.",static/Pokemon/psyduck.png
+55,I,Golduck,water,,"This Pokémon lives in gently flowing rivers. It paddles through the water with its long limbs, putting its graceful swimming skills on display.",static/Pokemon/golduck.png
+56,I,Mankey,fighting,,An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything.,static/Pokemon/mankey.png
+57,I,Primeape,fighting,,It stops being angry only when nobody else is around. To view this moment is very difficult.,static/Pokemon/primeape.png
+58,I,Growlithe,fire,,It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.,static/Pokemon/growlithe.png
+59,I,Arcanine,fire,,"The sight of it running over 6,200 miles in a single day and night has captivated many people.",static/Pokemon/arcanine.png
+60,I,Poliwag,water,,"For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon’s innards showing through the skin.",static/Pokemon/poliwag.png
+61,I,Poliwhirl,water,,Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl’s has been used in place of lullabies to get children to go to sleep.,static/Pokemon/poliwhirl.png
+62,I,Poliwrath,water,fighting,"Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.",static/Pokemon/poliwrath.png
+63,I,Abra,psychic,,This Pokémon uses its psychic powers while it sleeps. The contents of Abra’s dreams affect the powers that the Pokémon wields.,static/Pokemon/abra.png
+64,I,Kadabra,psychic,,"Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",static/Pokemon/kadabra.png
+65,I,Alakazam,psychic,,"It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.",static/Pokemon/alakazam.png
+66,I,Machop,fighting,,"Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",static/Pokemon/machop.png
+67,I,Machoke,fighting,,"Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",static/Pokemon/machoke.png
+68,I,Machamp,fighting,,It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.,static/Pokemon/machamp.png
+69,I,Bellsprout,grass,poison,Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them.,static/Pokemon/bellsprout.png
+70,I,Weepinbell,grass,poison,"When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids.",static/Pokemon/weepinbell.png
+71,I,Victreebel,grass,poison,"Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all.",static/Pokemon/victreebel.png
+72,I,Tentacool,water,poison,Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.,static/Pokemon/tentacool.png
+73,I,Tentacruel,water,poison,"When the red orbs on Tentacruel’s head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.",static/Pokemon/tentacruel.png
+74,I,Geodude,rock,ground,"Commonly found near mountain trails and the like. If you step on one by accident, it gets angry.",static/Pokemon/geodude.png
+75,I,Graveler,rock,ground,"Often seen rolling down mountain trails. Obstacles are just things to roll straight over, not avoid.",static/Pokemon/graveler.png
+76,I,Golem,rock,ground,"Once it sheds its skin, its body turns tender and whitish. Its hide hardens when it’s exposed to air.",static/Pokemon/golem.png
+77,I,Ponyta,fire,psychic,"It can’t run properly when it’s newly born. As it races around with others of its kind, its legs grow stronger.",static/Pokemon/ponyta.png
+78,I,Rapidash,fire,psychic,"This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.",static/Pokemon/rapidash.png
+79,I,Slowpoke,water,psychic,"Slow-witted and oblivious, this Pokémon won’t feel any pain if its tail gets eaten. It won’t notice when its tail grows back, either.",static/Pokemon/slowpoke.png
+80,I,Slowbro,water,psychic,Slowpoke became Slowbro when a Shellder bit on to its tail. Sweet flavors seeping from the tail make the Shellder feel as if its life is a dream.,static/Pokemon/slowbro.png
+81,I,Magnemite,electric,steel,"At times, Magnemite runs out of electricity and ends up on the ground. If you give batteries to a grounded Magnemite, it’ll start moving again.",static/Pokemon/magnemite.png
+82,I,Magneton,electric,steel,This Pokémon is three Magnemite that have linked together. Magneton sends out powerful radio waves to study its surroundings.,static/Pokemon/magneton.png
+83,I,Farfetch'd,normal,flying,"The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.",static/Pokemon/farfetch'd.png
+84,I,Doduo,normal,flying,"Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs.",static/Pokemon/doduo.png
+85,I,Dodrio,normal,flying,One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies.,static/Pokemon/dodrio.png
+86,I,Seel,water,,Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit.,static/Pokemon/seel.png
+87,I,Dewgong,water,ice,"Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters.",static/Pokemon/dewgong.png
+88,I,Grimer,poison,poison,Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path.,static/Pokemon/grimer.png
+89,I,Muk,poison,poison,"Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell.",static/Pokemon/muk.png
+90,I,Shellder,water,,It swims facing backward by opening and closing its two-piece shell. It is surprisingly fast.,static/Pokemon/shellder.png
+91,I,Cloyster,water,ice,"Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",static/Pokemon/cloyster.png
+92,I,Gastly,ghost,poison,"Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",static/Pokemon/gastly.png
+93,I,Haunter,ghost,poison,"Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes.",static/Pokemon/haunter.png
+94,I,Gengar,ghost,poison,"On the night of a full moon, if shadows move on their own and laugh, it must be Gengar’s doing.",static/Pokemon/gengar.png
+95,I,Onix,rock,ground,"As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",static/Pokemon/onix.png
+96,I,Drowzee,psychic,,"If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past.",static/Pokemon/drowzee.png
+97,I,Hypno,psychic,,Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.,static/Pokemon/hypno.png
+98,I,Krabby,water,,It can be found near the sea. The large pincers grow back if they are torn out of their sockets.,static/Pokemon/krabby.png
+99,I,Kingler,water,,"Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",static/Pokemon/kingler.png
+100,I,Voltorb,electric,,It is said to camouflage itself as a Poké Ball. It will self-destruct with very little stimulus.,static/Pokemon/voltorb.png
+101,I,Electrode,electric,,Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.,static/Pokemon/electrode.png
+102,I,Exeggcute,grass,psychic,"Though it may look like it’s just a bunch of eggs, it’s a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.",static/Pokemon/exeggcute.png
+103,I,Exeggutor,grass,psychic,Each of Exeggutor’s three heads is thinking different thoughts. The three don’t seem to be very interested in one another.,static/Pokemon/exeggutor.png
+104,I,Cubone,ground,,"When the memory of its departed mother brings it to tears, its cries echo mournfully within the skull it wears on its head.",static/Pokemon/cubone.png
+105,I,Marowak,ground,fire,"This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.",static/Pokemon/marowak.png
+106,I,Hitmonlee,fighting,,This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.,static/Pokemon/hitmonlee.png
+107,I,Hitmonchan,fighting,,"Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.",static/Pokemon/hitmonchan.png
+108,I,Lickitung,normal,,"If this Pokémon’s sticky saliva gets on you and you don’t clean it off, an intense itch will set in. The itch won’t go away, either.",static/Pokemon/lickitung.png
+109,I,Koffing,poison,,"Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.",static/Pokemon/koffing.png
+110,I,Weezing,poison,poison,It mixes gases between its two bodies. It’s said that these Pokémon were seen all over the Galar region back in the day.,static/Pokemon/weezing.png
+111,I,Rhyhorn,ground,rock,"Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.",static/Pokemon/rhyhorn.png
+112,I,Rhydon,ground,rock,It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.,static/Pokemon/rhydon.png
+113,I,Chansey,normal,,The egg Chansey carries is not only delicious but also packed with nutrition. It’s used as a high-class cooking ingredient.,static/Pokemon/chansey.png
+114,I,Tangela,grass,,"Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon’s true appearance remains a mystery.",static/Pokemon/tangela.png
+115,I,Kangaskhan,normal,,"Although it’s carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.",static/Pokemon/kangaskhan.png
+116,I,Horsea,water,,"Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.",static/Pokemon/horsea.png
+117,I,Seadra,water,,"It’s the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.",static/Pokemon/seadra.png
+118,I,Goldeen,water,,"Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",static/Pokemon/goldeen.png
+119,I,Seaking,water,,"In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",static/Pokemon/seaking.png
+120,I,Staryu,water,,"If you visit a beach at the end of summer, you’ll be able to see groups of Staryu lighting up in a steady rhythm.",static/Pokemon/staryu.png
+121,I,Starmie,water,psychic,This Pokémon has an organ known as its core. The organ glows in seven colors when Starmie is unleashing its potent psychic powers.,static/Pokemon/starmie.png
+122,I,Mr. Mime,psychic,fairy,The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.,static/Pokemon/mr. mime.png
+123,I,Scyther,bug,flying,"As Scyther fights more and more battles, its scythes become sharper and sharper. With a single slice, Scyther can fell a massive tree.",static/Pokemon/scyther.png
+124,I,Jynx,ice,psychic,"In certain parts of Galar, Jynx was once feared and worshiped as the Queen of Ice.",static/Pokemon/jynx.png
+125,I,Electabuzz,electric,,Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.,static/Pokemon/electabuzz.png
+126,I,Magmar,fire,,Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.,static/Pokemon/magmar.png
+127,I,Pinsir,bug,,"These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",static/Pokemon/pinsir.png
+128,I,Tauros,normal,,"When Tauros begins whipping itself with its tails, it’s a warning that the Pokémon is about to charge with astounding speed.",static/Pokemon/tauros.png
+129,I,Magikarp,water,,It is virtually worthless in terms of both power and speed. It is the most weak and pathetic Pokémon in the world.,static/Pokemon/magikarp.png
+130,I,Gyarados,water,flying,It has an extremely aggressive nature. The Hyper Beam it shoots from its mouth totally incinerates all targets.,static/Pokemon/gyarados.png
+131,I,Lapras,water,ice,"A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.",static/Pokemon/lapras.png
+132,I,Ditto,normal,,"It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes.",static/Pokemon/ditto.png
+133,I,Eevee,normal,,It has the ability to alter the composition of its body to suit its surrounding environment.,static/Pokemon/eevee.png
+134,I,Vaporeon,water,,"When Vaporeon’s fins begin to vibrate, it is a sign that rain will come within a few hours.",static/Pokemon/vaporeon.png
+135,I,Jolteon,electric,,"If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.",static/Pokemon/jolteon.png
+136,I,Flareon,fire,,"Once it has stored up enough heat, this Pokémon’s body temperature can reach up to 1,700 degrees Fahrenheit.",static/Pokemon/flareon.png
+137,I,Porygon,normal,,State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.,static/Pokemon/porygon.png
+138,I,Omanyte,rock,water,"Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",static/Pokemon/omanyte.png
+139,I,Omastar,rock,water,"Weighed down by a large and heavy shell, Omastar couldn’t move very fast. Some say it went extinct because it was unable to catch food.",static/Pokemon/omastar.png
+140,I,Kabuto,rock,water,"This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",static/Pokemon/kabuto.png
+141,I,Kabutops,rock,water,Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.,static/Pokemon/kabutops.png
+142,I,Aerodactyl,rock,flying,This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.,static/Pokemon/aerodactyl.png
+143,I,Snorlax,normal,,"It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.",static/Pokemon/snorlax.png
+144,I,Articuno,ice,flying,"It’s said that this Pokémon’s beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.",static/Pokemon/articuno.png
+145,I,Zapdos,electric,flying,This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.,static/Pokemon/zapdos.png
+146,I,Moltres,fire,flying,"It’s one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.",static/Pokemon/moltres.png
+147,I,Dratini,dragon,,"Dratini dwells near bodies of rapidly flowing water, such as the plunge pools of waterfalls. As it grows, Dratini will shed its skin many times.",static/Pokemon/dratini.png
+148,I,Dragonair,dragon,,"This Pokémon lives in pristine oceans and lakes. It can control the weather, and it uses this power to fly into the sky, riding on the wind.",static/Pokemon/dragonair.png
+149,I,Dragonite,dragon,flying,"It’s a kindhearted Pokémon. If it spots a drowning person or Pokémon, Dragonite simply must help them.",static/Pokemon/dragonite.png
+150,I,Mewtwo,psychic,,"Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different.",static/Pokemon/mewtwo.png
+151,I,Mew,psychic,,"When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen.",static/Pokemon/mew.png
+152,II,Chikorita,grass,,"In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",static/Pokemon/chikorita.png
+153,II,Bayleef,grass,,Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.,static/Pokemon/bayleef.png
+154,II,Meganium,grass,,"The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",static/Pokemon/meganium.png
+155,II,Cyndaquil,fire,,"Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",static/Pokemon/cyndaquil.png
+156,II,Quilava,fire,,Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.,static/Pokemon/quilava.png
+157,II,Typhlosion,fire,,Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.,static/Pokemon/typhlosion.png
+158,II,Totodile,water,,"Despite the smallness of its body, Totodile’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",static/Pokemon/totodile.png
+159,II,Croconaw,water,,"Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",static/Pokemon/croconaw.png
+160,II,Feraligatr,water,,"Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",static/Pokemon/feraligatr.png
+161,II,Sentret,normal,,"When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",static/Pokemon/sentret.png
+162,II,Furret,normal,,"Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",static/Pokemon/furret.png
+163,II,Hoothoot,normal,flying,"It always stands on one foot. It changes feet so fast, the movement can rarely be seen.",static/Pokemon/hoothoot.png
+164,II,Noctowl,normal,flying,Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.,static/Pokemon/noctowl.png
+165,II,Ledyba,bug,flying,"This Pokémon is very sensitive to cold. In the warmth of Alola, it appears quite lively.",static/Pokemon/ledyba.png
+166,II,Ledian,bug,flying,"It’s said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear.",static/Pokemon/ledian.png
+167,II,Spinarak,bug,poison,"With threads from its mouth, it fashions sturdy webs that won’t break even if you set a rock on them.",static/Pokemon/spinarak.png
+168,II,Ariados,bug,poison,"Every night, it wanders around in search of prey, whose movements it restrains by spewing threads before it bites into them with its fangs.",static/Pokemon/ariados.png
+169,II,Crobat,poison,flying,"Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target’s neck.",static/Pokemon/crobat.png
+170,II,Chinchou,water,electric,"Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.",static/Pokemon/chinchou.png
+171,II,Lanturn,water,electric,The light it emits is so bright that it can illuminate the sea’s surface from a depth of over three miles.,static/Pokemon/lanturn.png
+172,II,Pichu,electric,,"Despite its small size, it can zap even adult humans. However, if it does so, it also surprises itself.",static/Pokemon/pichu.png
+173,II,Cleffa,fairy,,"According to local rumors, Cleffa are often seen in places where shooting stars have fallen.",static/Pokemon/cleffa.png
+174,II,Igglybuff,normal,fairy,Igglybuff loves to sing. Its marshmallow-like body gives off a faint sweet smell.,static/Pokemon/igglybuff.png
+175,II,Togepi,fairy,,The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.,static/Pokemon/togepi.png
+176,II,Togetic,fairy,flying,"They say that it will appear before kindhearted, caring people and shower them with happiness.",static/Pokemon/togetic.png
+177,II,Natu,psychic,flying,It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.,static/Pokemon/natu.png
+178,II,Xatu,psychic,flying,They say that it stays still and quiet because it is seeing both the past and future at the same time.,static/Pokemon/xatu.png
+179,II,Mareep,electric,,"Clothing made from Mareep’s fleece is easily charged with static electricity, so a special process is used on it.",static/Pokemon/mareep.png
+180,II,Flaaffy,electric,,"In the places on its body where fleece doesn’t grow, its skin is rubbery and doesn’t conduct electricity. Those spots are safe to touch.",static/Pokemon/flaaffy.png
+181,II,Ampharos,electric,,"The light from its tail can be seen from space. This is why you can always tell exactly where it is, which is why it usually keeps the light off.",static/Pokemon/ampharos.png
+182,II,Bellossom,grass,,"Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.",static/Pokemon/bellossom.png
+183,II,Marill,water,fairy,This Pokémon uses its round tail as a float. The ball of Marill’s tail is filled with nutrients that have been turned into an oil.,static/Pokemon/marill.png
+184,II,Azumarill,water,fairy,"It spends most of its time in the water. On sunny days, Azumarill floats on the surface of the water and sunbathes.",static/Pokemon/azumarill.png
+185,II,Sudowoodo,rock,,"If a tree branch shakes when there is no wind, it’s a Sudowoodo, not a tree. It hides from the rain.",static/Pokemon/sudowoodo.png
+186,II,Politoed,water,,"At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.",static/Pokemon/politoed.png
+187,II,Hoppip,grass,flying,"This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",static/Pokemon/hoppip.png
+188,II,Skiploom,grass,flying,"Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",static/Pokemon/skiploom.png
+189,II,Jumpluff,grass,flying,Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.,static/Pokemon/jumpluff.png
+190,II,Aipom,normal,,"As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.",static/Pokemon/aipom.png
+191,II,Sunkern,grass,,"Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",static/Pokemon/sunkern.png
+192,II,Sunflora,grass,,Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.,static/Pokemon/sunflora.png
+193,II,Yanma,bug,flying,Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.,static/Pokemon/yanma.png
+194,II,Wooper,water,ground,This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.,static/Pokemon/wooper.png
+195,II,Quagsire,water,ground,It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.,static/Pokemon/quagsire.png
+196,II,Espeon,psychic,,"By reading air currents, it can predict things such as the weather or its foe’s next move.",static/Pokemon/espeon.png
+197,II,Umbreon,dark,,"When this Pokémon becomes angry, its pores secrete a poisonous sweat, which it sprays at its opponent’s eyes.",static/Pokemon/umbreon.png
+198,II,Murkrow,dark,flying,It has a weakness for shiny things. It’s been known to sneak into the nests of Gabite—noted collectors of jewels—in search of treasure.,static/Pokemon/murkrow.png
+199,II,Slowking,water,psychic,"Miraculously, this former Slowpoke’s latent intelligence was drawn out when Shellder poison raced through its brain.",static/Pokemon/slowking.png
+200,II,Misdreavus,ghost,,"What gives meaning to its life is surprising others. If you set your ear against the red orbs around its neck, you can hear shrieking.",static/Pokemon/misdreavus.png
+201,II,Unown,psychic,,"This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",static/Pokemon/unown.png
+202,II,Wobbuffet,psychic,,"It hates light and shock. If attacked, it inflates its body to pump up its counterstrike.",static/Pokemon/wobbuffet.png
+203,II,Girafarig,normal,psychic,"Girafarig’s rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite.",static/Pokemon/girafarig.png
+204,II,Pineco,bug,,"Motionless, it hangs from trees, waiting for its bug Pokémon prey to come to it. Its favorite in Alola is Cutiefly.",static/Pokemon/pineco.png
+205,II,Forretress,bug,steel,"When something approaches it, it fires off fragments of its steel shell in attack. This is not a conscious action but a conditioned reflex.",static/Pokemon/forretress.png
+206,II,Dunsparce,normal,,This Pokémon’s tiny wings have some scientists saying that Dunsparce used to fly through the sky in ancient times.,static/Pokemon/dunsparce.png
+207,II,Gligar,ground,flying,"Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",static/Pokemon/gligar.png
+208,II,Steelix,steel,ground,"It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",static/Pokemon/steelix.png
+209,II,Snubbull,fairy,,It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.,static/Pokemon/snubbull.png
+210,II,Granbull,fairy,,"While it has powerful jaws, it doesn’t care for disputes, so it rarely has a chance to display their might.",static/Pokemon/granbull.png
+211,II,Qwilfish,water,poison,"When faced with a larger opponent, it swallows as much water as it can to match the opponent’s size.",static/Pokemon/qwilfish.png
+212,II,Scizor,bug,steel,Bulky pincers account for one third of Scizor’s body weight. A single swing of one of these pincers will crush a boulder completely.,static/Pokemon/scizor.png
+213,II,Shuckle,bug,rock,"It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",static/Pokemon/shuckle.png
+214,II,Heracross,bug,fighting,Heracross loves sweet sap and will go looking through forests for it. The Pokémon uses its two antennae to pick up scents as it searches.,static/Pokemon/heracross.png
+215,II,Sneasel,dark,ice,"Its paws conceal sharp claws. If attacked, it suddenly extends the claws and startles its enemy.",static/Pokemon/sneasel.png
+216,II,Teddiursa,normal,,This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.,static/Pokemon/teddiursa.png
+217,II,Ursaring,normal,,"In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",static/Pokemon/ursaring.png
+218,II,Slugma,fire,,"Molten magma courses throughout Slugma’s circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size.",static/Pokemon/slugma.png
+219,II,Magcargo,fire,rock,Magcargo’s shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma.,static/Pokemon/magcargo.png
+220,II,Swinub,ice,ground,It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.,static/Pokemon/swinub.png
+221,II,Piloswine,ice,ground,"If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.",static/Pokemon/piloswine.png
+222,II,Corsola,water,rock,It will regrow any branches that break off its head. People keep particularly beautiful Corsola branches as charms to promote safe childbirth.,static/Pokemon/corsola.png
+223,II,Remoraid,water,,The water they shoot from their mouths can hit moving prey from more than 300 feet away.,static/Pokemon/remoraid.png
+224,II,Octillery,water,,It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.,static/Pokemon/octillery.png
+225,II,Delibird,ice,flying,It carries food all day long. There are tales about lost people who were saved by the food it had.,static/Pokemon/delibird.png
+226,II,Mantine,water,flying,"If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",static/Pokemon/mantine.png
+227,II,Skarmory,steel,flying,The pointed feathers of these Pokémon are sharper than swords. Skarmory and Corviknight fight viciously over territory.,static/Pokemon/skarmory.png
+228,II,Houndour,dark,fire,"It cooperates with others skillfully. When it becomes your partner, it’s very loyal to you as its Trainer and will obey your orders.",static/Pokemon/houndour.png
+229,II,Houndoom,dark,fire,They spew flames mixed with poison to finish off their opponents. They divvy up their prey evenly among the members of their pack.,static/Pokemon/houndoom.png
+230,II,Kingdra,water,dragon,"With the arrival of a storm at sea, this Pokémon will show itself on the surface. When a Kingdra and a Dragonite meet, a fierce battle ensues.",static/Pokemon/kingdra.png
+231,II,Phanpy,ground,,"For its nest, Phanpy digs a vertical pit in the ground at the edge of a river. It marks the area around its nest with its trunk to let the others know that the area has been claimed.",static/Pokemon/phanpy.png
+232,II,Donphan,ground,,"Donphan’s favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can’t stop very easily.",static/Pokemon/donphan.png
+233,II,Porygon2,normal,,This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.,static/Pokemon/porygon2.png
+234,II,Stantler,normal,,"Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",static/Pokemon/stantler.png
+235,II,Smeargle,normal,,The fluid of Smeargle’s tail secretions changes in the intensity of its hue as the Pokémon’s emotions change.,static/Pokemon/smeargle.png
+236,II,Tyrogue,fighting,,"It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.",static/Pokemon/tyrogue.png
+237,II,Hitmontop,fighting,,"It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.",static/Pokemon/hitmontop.png
+238,II,Smoochum,ice,psychic,"If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn’t really seem to care.",static/Pokemon/smoochum.png
+239,II,Elekid,electric,,"When a storm approaches, this Pokémon gets restless. Once Elekid hears the sound of thunder, it gets full-on rowdy.",static/Pokemon/elekid.png
+240,II,Magby,fire,,"This Pokémon is still small and timid. Whenever Magby gets excited or surprised, flames leak from its mouth and its nose.",static/Pokemon/magby.png
+241,II,Miltank,normal,,"Miltank produces highly nutritious milk, so it’s been supporting the lives of people and other Pokémon since ancient times.",static/Pokemon/miltank.png
+242,II,Blissey,normal,,"Whenever a Blissey finds a weakened Pokémon, it will share its egg and offer its care until the other Pokémon is all better.",static/Pokemon/blissey.png
+243,II,Raikou,electric,,Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.,static/Pokemon/raikou.png
+244,II,Entei,fire,,Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.,static/Pokemon/entei.png
+245,II,Suicune,water,,Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.,static/Pokemon/suicune.png
+246,II,Larvitar,rock,ground,"Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil.",static/Pokemon/larvitar.png
+247,II,Pupitar,rock,ground,"Even sealed in its shell, it can move freely. Hard and fast, it has outstanding destructive power.",static/Pokemon/pupitar.png
+248,II,Tyranitar,rock,dark,"Its body can’t be harmed by any sort of attack, so it is very eager to make challenges against enemies.",static/Pokemon/tyranitar.png
+249,II,Lugia,psychic,flying,"Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",static/Pokemon/lugia.png
+250,II,Ho-Oh,fire,flying,Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.,static/Pokemon/ho-oh.png
+251,II,Celebi,psychic,grass,"This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",static/Pokemon/celebi.png
+252,III,Treecko,grass,,Treecko has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail.,static/Pokemon/treecko.png
+253,III,Grovyle,grass,,The leaves growing out of Grovyle’s body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles.,static/Pokemon/grovyle.png
+254,III,Sceptile,grass,,The leaves growing on Sceptile’s body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.,static/Pokemon/sceptile.png
+255,III,Torchic,fire,,"Torchic sticks with its Trainer, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees Fahrenheit, including fireballs that leave the foe scorched black.",static/Pokemon/torchic.png
+256,III,Combusken,fire,fighting,"Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon’s legs possess both speed and power, enabling it to dole out 10 kicks in one second.",static/Pokemon/combusken.png
+257,III,Blaziken,fire,fighting,"In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon’s wrists burn.",static/Pokemon/blaziken.png
+258,III,Mudkip,water,,"The fin on Mudkip’s head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes.",static/Pokemon/mudkip.png
+259,III,Marshtomp,water,ground,"The surface of Marshtomp’s body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low.",static/Pokemon/marshtomp.png
+260,III,Swampert,water,ground,Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.,static/Pokemon/swampert.png
+261,III,Poochyena,dark,,"At first sight, Poochyena takes a bite at anything that moves. This Pokémon chases after prey until the victim becomes exhausted. However, it may turn tail if the prey strikes back.",static/Pokemon/poochyena.png
+262,III,Mightyena,dark,,Mightyena gives obvious signals when it is preparing to attack. It starts to growl deeply and then flattens its body. This Pokémon will bite savagely with its sharply pointed fangs.,static/Pokemon/mightyena.png
+263,III,Zigzagoon,normal,dark,It marks its territory by rubbing its bristly fur on trees. This variety of Zigzagoon is friendlier and calmer than the kind native to Galar.,static/Pokemon/zigzagoon.png
+264,III,Linoone,normal,dark,Its fur is strong and supple. Shaving brushes made with shed Linoone hairs are highly prized.,static/Pokemon/linoone.png
+265,III,Wurmple,bug,,"Using the spikes on its rear end, Wurmple peels the bark off trees and feeds on the sap that oozes out. This Pokémon’s feet are tipped with suction pads that allow it to cling to glass without slipping.",static/Pokemon/wurmple.png
+266,III,Silcoon,bug,,"Silcoon tethers itself to a tree branch using silk to keep from falling. There, this Pokémon hangs quietly while it awaits evolution. It peers out of the silk cocoon through a small hole.",static/Pokemon/silcoon.png
+267,III,Beautifly,bug,flying,"Beautifly’s favorite food is the sweet pollen of flowers. If you want to see this Pokémon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",static/Pokemon/beautifly.png
+268,III,Cascoon,bug,,"Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pokémon prepares for its evolution inside the cocoon.",static/Pokemon/cascoon.png
+269,III,Dustox,bug,poison,"Dustox is instinctively drawn to light. Swarms of this Pokémon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",static/Pokemon/dustox.png
+270,III,Lotad,water,grass,"It searches about for clean water. If it does not drink water for too long, the leaf on its head wilts.",static/Pokemon/lotad.png
+271,III,Lombre,water,grass,It is nocturnal and becomes active at nightfall. It feeds on aquatic mosses that grow in the riverbed.,static/Pokemon/lombre.png
+272,III,Ludicolo,water,grass,"The rhythm of bright, festive music activates Ludicolo’s cells, making it more powerful.",static/Pokemon/ludicolo.png
+273,III,Seedot,grass,,"If it remains still, it looks just like a real nut. It delights in surprising foraging Pokémon.",static/Pokemon/seedot.png
+274,III,Nuzleaf,grass,dark,"It lives deep in forests. With the leaf on its head, it makes a flute whose song makes listeners uneasy.",static/Pokemon/nuzleaf.png
+275,III,Shiftry,grass,dark,A Pokémon that was feared as a forest guardian. It can read the foe’s mind and take preemptive action.,static/Pokemon/shiftry.png
+276,III,Taillow,normal,flying,"Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokémon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",static/Pokemon/taillow.png
+277,III,Swellow,normal,flying,"Swellow flies high above our heads, making graceful arcs in the sky. This Pokémon dives at a steep angle as soon as it spots its prey. The hapless prey is tightly grasped by Swellow’s clawed feet, preventing escape.",static/Pokemon/swellow.png
+278,III,Wingull,water,flying,"It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies.",static/Pokemon/wingull.png
+279,III,Pelipper,water,flying,"It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",static/Pokemon/pelipper.png
+280,III,Ralts,psychic,fairy,It is highly attuned to the emotions of people and Pokémon. It hides if it senses hostility.,static/Pokemon/ralts.png
+281,III,Kirlia,psychic,fairy,"If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",static/Pokemon/kirlia.png
+282,III,Gardevoir,psychic,fairy,It has the power to predict the future. Its power peaks when it is protecting its Trainer.,static/Pokemon/gardevoir.png
+283,III,Surskit,bug,water,"If it’s in a pinch, it will secrete a sweet liquid from the tip of its head. Syrup made from gathering that liquid is tasty on bread.",static/Pokemon/surskit.png
+284,III,Masquerain,bug,flying,"Masquerain intimidates enemies with the eyelike patterns of its eyespots. If that doesn’t work, it deftly makes its escape on its set of four wings.",static/Pokemon/masquerain.png
+285,III,Shroomish,grass,,"Shroomish live in damp soil in the dark depths of forests. They are often found keeping still under fallen leaves. This Pokémon feeds on compost that is made up of fallen, rotted leaves.",static/Pokemon/shroomish.png
+286,III,Breloom,grass,fighting,"Breloom closes in on its foe with light and sprightly footwork, then throws punches with its stretchy arms. This Pokémon’s fighting technique puts boxers to shame.",static/Pokemon/breloom.png
+287,III,Slakoth,normal,,"Slakoth lolls around for over 20 hours every day. Because it moves so little, it does not need much food. This Pokémon’s sole daily meal consists of just three leaves.",static/Pokemon/slakoth.png
+288,III,Vigoroth,normal,,Vigoroth is always itching and agitated to go on a wild rampage. It simply can’t tolerate sitting still for even a minute. This Pokémon’s stress level rises if it can’t be moving constantly.,static/Pokemon/vigoroth.png
+289,III,Slaking,normal,,"Slaking spends all day lying down and lolling about. It eats grass growing within its reach. If it eats all the grass it can reach, this Pokémon reluctantly moves to another spot.",static/Pokemon/slaking.png
+290,III,Nincada,bug,ground,"Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",static/Pokemon/nincada.png
+291,III,Ninjask,bug,flying,Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.,static/Pokemon/ninjask.png
+292,III,Shedinja,bug,ghost,A most peculiar Pokémon that somehow appears in a Poké Ball when a Nincada evolves.,static/Pokemon/shedinja.png
+293,III,Whismur,normal,,"The cry of a Whismur is over 100 decibels. If you’re close to a Whismur when it lets out a cry, you’ll be stuck with an all-day headache.",static/Pokemon/whismur.png
+294,III,Loudred,normal,,"Loudred’s ears serve as speakers, and they can put out sound waves powerful enough to blow away a house.",static/Pokemon/loudred.png
+295,III,Exploud,normal,,"In the past, people would use the loud voices of these Pokémon as a means of communication between distant cities.",static/Pokemon/exploud.png
+296,III,Makuhita,fighting,,It practices its slaps by repeatedly slapping tree trunks. It has been known to slap an Exeggutor and get flung away.,static/Pokemon/makuhita.png
+297,III,Hariyama,fighting,,"Although they enjoy comparing their strength, they’re also kind. They value etiquette, praising opponents they battle.",static/Pokemon/hariyama.png
+298,III,Azurill,normal,fairy,"The ball on Azurill’s tail bounces like a rubber ball, and it’s full of the nutrients the Pokémon needs to grow.",static/Pokemon/azurill.png
+299,III,Nosepass,rock,,"It moves less than an inch a year, but when it’s in a jam, it will spin and drill down into the ground in a split second.",static/Pokemon/nosepass.png
+300,III,Skitty,normal,,Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokémon is known to chase after its own tail and become dizzy.,static/Pokemon/skitty.png
+301,III,Delcatty,normal,,"Delcatty prefers to live an unfettered existence in which it can do as it pleases at its own pace. Because this Pokémon eats and sleeps whenever it decides, its daily routines are completely random.",static/Pokemon/delcatty.png
+302,III,Sableye,dark,ghost,"This Pokémon is feared. When its gemstone eyes begin to glow with a sinister shine, it’s believed that Sableye will steal people’s spirits away.",static/Pokemon/sableye.png
+303,III,Mawile,steel,fairy,"It uses its docile-looking face to lull foes into complacency, then bites with its huge, relentless jaws.",static/Pokemon/mawile.png
+304,III,Aron,steel,rock,It eats iron ore—and sometimes railroad tracks— to build up the steel armor that protects its body.,static/Pokemon/aron.png
+305,III,Lairon,steel,rock,"Lairon live in mountains brimming with spring water and iron ore, so these Pokémon often came into conflict with humans in the past.",static/Pokemon/lairon.png
+306,III,Aggron,steel,rock,Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.,static/Pokemon/aggron.png
+307,III,Meditite,fighting,psychic,"Meditite undertakes rigorous mental training deep in the mountains. However, whenever it meditates, this Pokémon always loses its concentration and focus. As a result, its training never ends.",static/Pokemon/meditite.png
+308,III,Medicham,fighting,psychic,"It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains.",static/Pokemon/medicham.png
+309,III,Electrike,electric,,It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.,static/Pokemon/electrike.png
+310,III,Manectric,electric,,"It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",static/Pokemon/manectric.png
+311,III,Plusle,electric,,"Plusle always acts as a cheerleader for its partners. Whenever a teammate puts out a good effort in battle, this Pokémon shorts out its body to create the crackling noises of sparks to show its joy.",static/Pokemon/plusle.png
+312,III,Minun,electric,,Minun is more concerned about cheering on its partners than its own safety. It shorts out the electricity in its body to create brilliant showers of sparks to cheer on its teammates.,static/Pokemon/minun.png
+313,III,Volbeat,bug,,"With the arrival of night, Volbeat emits light from its tail. It communicates with others by adjusting the intensity and flashing of its light. This Pokémon is attracted by the sweet aroma of Illumise.",static/Pokemon/volbeat.png
+314,III,Illumise,bug,,"Illumise attracts a swarm of Volbeat using a sweet fragrance. Once the Volbeat have gathered, this Pokémon leads the lit-up swarm in drawing geometric designs on the canvas of the night sky.",static/Pokemon/illumise.png
+315,III,Roselia,grass,poison,"Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",static/Pokemon/roselia.png
+316,III,Gulpin,poison,,"Virtually all of Gulpin’s body is its stomach. As a result, it can swallow something its own size. This Pokémon’s stomach contains a special fluid that digests anything.",static/Pokemon/gulpin.png
+317,III,Swalot,poison,,"When Swalot spots prey, it spurts out a hideously toxic fluid from its pores and sprays the target. Once the prey has weakened, this Pokémon gulps it down whole with its cavernous mouth.",static/Pokemon/swalot.png
+318,III,Carvanha,water,dark,"It won’t attack while it’s alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.",static/Pokemon/carvanha.png
+319,III,Sharpedo,water,dark,"As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",static/Pokemon/sharpedo.png
+320,III,Wailmer,water,,It shows off by spraying jets of seawater from the nostrils above its eyes. It eats a solid ton of Wishiwashi every day.,static/Pokemon/wailmer.png
+321,III,Wailord,water,,It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.,static/Pokemon/wailord.png
+322,III,Numel,fire,ground,"Numel is extremely dull witted—it doesn’t notice being hit. However, it can’t stand hunger for even a second. This Pokémon’s body is a seething cauldron of boiling magma.",static/Pokemon/numel.png
+323,III,Camerupt,fire,ground,"Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body. Occasionally, the humps on this Pokémon’s back erupt, spewing the superheated magma.",static/Pokemon/camerupt.png
+324,III,Torkoal,fire,,It burns coal inside its shell for energy. It blows out black soot if it is endangered.,static/Pokemon/torkoal.png
+325,III,Spoink,psychic,,"Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop.",static/Pokemon/spoink.png
+326,III,Grumpig,psychic,,"Grumpig uses the black pearls on its body to amplify its psychic power waves for gaining total control over its foe. When this Pokémon uses its special power, its snorting breath grows labored.",static/Pokemon/grumpig.png
+327,III,Spinda,normal,,Its steps are shaky and stumbling. Walking for a long time makes it feel sick.,static/Pokemon/spinda.png
+328,III,Trapinch,ground,,"Its nest is a sloped, bowl-like pit in the desert. Once something has fallen in, there is no escape.",static/Pokemon/trapinch.png
+329,III,Vibrava,ground,dragon,The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.,static/Pokemon/vibrava.png
+330,III,Flygon,ground,dragon,This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.,static/Pokemon/flygon.png
+331,III,Cacnea,grass,,"Cacnea lives in arid locations such as deserts. It releases a strong aroma from its flower to attract prey. When prey comes near, this Pokémon shoots sharp thorns from its body to bring the victim down.",static/Pokemon/cacnea.png
+332,III,Cacturne,grass,dark,"During the daytime, Cacturne remains unmoving so that it does not lose any moisture to the harsh desert sun. This Pokémon becomes active at night when the temperature drops.",static/Pokemon/cacturne.png
+333,III,Swablu,normal,flying,"Its cottony wings are full of air, making them light and fluffy to the touch. Swablu takes diligent care of its wings.",static/Pokemon/swablu.png
+334,III,Altaria,dragon,flying,"As it flies in a calm and relaxed manner, Altaria performs a humming song that would enrapture any audience.",static/Pokemon/altaria.png
+335,III,Zangoose,normal,,Memories of battling its archrival Seviper are etched into every cell of Zangoose’s body. This Pokémon adroitly dodges attacks with incredible agility.,static/Pokemon/zangoose.png
+336,III,Seviper,poison,,Seviper shares a generations-long feud with Zangoose. The scars on its body are evidence of vicious battles. This Pokémon attacks using its sword-edged tail.,static/Pokemon/seviper.png
+337,III,Lunatone,rock,psychic,The phase of the moon apparently has some effect on its power. It’s active on the night of a full moon.,static/Pokemon/lunatone.png
+338,III,Solrock,rock,psychic,"When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",static/Pokemon/solrock.png
+339,III,Barboach,water,ground,"Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",static/Pokemon/barboach.png
+340,III,Whiscash,water,ground,"It makes its nest at the bottom of swamps. It will eat anything—if it is alive, Whiscash will eat it.",static/Pokemon/whiscash.png
+341,III,Corphish,water,,"No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive.",static/Pokemon/corphish.png
+342,III,Crawdaunt,water,dark,A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.,static/Pokemon/crawdaunt.png
+343,III,Baltoy,ground,psychic,It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.,static/Pokemon/baltoy.png
+344,III,Claydol,ground,psychic,"This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.",static/Pokemon/claydol.png
+345,III,Lileep,rock,grass,"This Pokémon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.",static/Pokemon/lileep.png
+346,III,Cradily,rock,grass,"It has short legs and can’t walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",static/Pokemon/cradily.png
+347,III,Anorith,rock,bug,"This Pokémon was restored from a fossil. Anorith lived in the ocean about 100,000,000 years ago, hunting with its pair of claws.",static/Pokemon/anorith.png
+348,III,Armaldo,rock,bug,"After evolution, this Pokémon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.",static/Pokemon/armaldo.png
+349,III,Feebas,water,,"Although unattractive and unpopular, this Pokémon’s marvelous vitality has made it a subject of research.",static/Pokemon/feebas.png
+350,III,Milotic,water,,Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.,static/Pokemon/milotic.png
+351,III,Castform,normal,fire,"Although its form changes with the weather, that is apparently the result of a chemical reaction and not the result of its own free will.",static/Pokemon/castform.png
+352,III,Kecleon,normal,,"It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",static/Pokemon/kecleon.png
+353,III,Shuppet,ghost,,"It eats up emotions like malice, jealousy, and resentment, so some people are grateful for its presence.",static/Pokemon/shuppet.png
+354,III,Banette,ghost,,"It’s a stuffed toy that was thrown away and became possessed, ever searching for the one who threw it away so it can exact its revenge.",static/Pokemon/banette.png
+355,III,Duskull,ghost,,"If it finds bad children who won’t listen to their parents, it will spirit them away—or so it’s said.",static/Pokemon/duskull.png
+356,III,Dusclops,ghost,,"Its body is entirely hollow. When it opens its mouth, it sucks everything in as if it were a black hole.",static/Pokemon/dusclops.png
+357,III,Tropius,grass,flying,The bunches of fruit growing around the necks of Tropius in Alola are especially sweet compared to those in other regions.,static/Pokemon/tropius.png
+358,III,Chimecho,psychic,,"Chimecho makes its cries echo inside its hollow body. When this Pokémon becomes enraged, its cries result in ultrasonic waves that have the power to knock foes flying.",static/Pokemon/chimecho.png
+359,III,Absol,dark,,"Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters.",static/Pokemon/absol.png
+360,III,Wynaut,psychic,,It tends to move in a pack. Individuals squash against one another to toughen their spirits.,static/Pokemon/wynaut.png
+361,III,Snorunt,ice,,"It’s said that if they are seen at midnight, they’ll cause heavy snow. They eat snow and ice to survive.",static/Pokemon/snorunt.png
+362,III,Glalie,ice,,"It has a body of ice that won’t melt, even with fire. It can instantly freeze moisture in the atmosphere.",static/Pokemon/glalie.png
+363,III,Spheal,ice,water,This Pokémon’s body is covered in blubber and impressively round. It’s faster for Spheal to roll around than walk.,static/Pokemon/spheal.png
+364,III,Sealeo,ice,water,"Sealeo live on top of drift ice. They go swimming when they’re on the hunt, seeking out their prey by scent.",static/Pokemon/sealeo.png
+365,III,Walrein,ice,water,"Walrein form herds of 20 to 30 individuals. When a threat appears, the herd’s leader will protect the group with its life.",static/Pokemon/walrein.png
+366,III,Clamperl,water,,"Despite its appearance, it’s carnivorous. It clamps down on its prey with both sides of its shell and doesn’t let go until they stop moving.",static/Pokemon/clamperl.png
+367,III,Huntail,water,,It’s not the strongest swimmer. It wags its tail to lure in its prey and then gulps them down as soon as they get close.,static/Pokemon/huntail.png
+368,III,Gorebyss,water,,The color of its body changes with the water temperature. The coloration of Gorebyss in Alola is almost blindingly vivid.,static/Pokemon/gorebyss.png
+369,III,Relicanth,water,rock,Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea.,static/Pokemon/relicanth.png
+370,III,Luvdisc,water,,There was an era when it was overfished due to the rumor that having one of its heart-shaped scales would enable you to find a sweetheart.,static/Pokemon/luvdisc.png
+371,III,Bagon,dragon,,"Bagon jumps off cliffs every day, trying to grow stronger so that someday it will be able to fly.",static/Pokemon/bagon.png
+372,III,Shelgon,dragon,,This Pokémon has covered its body in a hard shell that has the same composition as bone. Shelgon stores energy for evolution.,static/Pokemon/shelgon.png
+373,III,Salamence,dragon,flying,Salamence is an unusual Pokémon in that it was able to evolve a body with wings just by constantly wishing to be able to fly.,static/Pokemon/salamence.png
+374,III,Beldum,steel,psychic,"From its rear, Beldum emits a magnetic force that rapidly pulls opponents in. They get skewered on Beldum’s sharp claws.",static/Pokemon/beldum.png
+375,III,Metang,steel,psychic,"Two Beldum have become stuck together via their own magnetic forces. With two brains, the resulting Metang has doubled psychic powers.",static/Pokemon/metang.png
+376,III,Metagross,steel,psychic,"Because the magnetic powers of these Pokémon get stronger in freezing temperatures, Metagross living on snowy mountains are full of energy.",static/Pokemon/metagross.png
+377,III,Regirock,rock,,"Every bit of Regirock’s body is made of stone. As parts of its body erode, this Pokémon sticks rocks to itself to repair what’s been lost.",static/Pokemon/regirock.png
+378,III,Regice,ice,,"With cold air that can reach temperatures as low as −328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.",static/Pokemon/regice.png
+379,III,Registeel,steel,,Registeel’s body is made of a strange material that is flexible enough to stretch and shrink but also more durable than any metal.,static/Pokemon/registeel.png
+380,III,Latias,dragon,psychic,"Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pokémon ruffles the feathers all over its body and cries shrilly to intimidate the foe.",static/Pokemon/latias.png
+381,III,Latios,dragon,psychic,Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech.,static/Pokemon/latios.png
+382,III,Kyogre,water,,"Through Primal Reversion and with nature’s full power, it will take back its true form. It can summon storms that cause the sea levels to rise.",static/Pokemon/kyogre.png
+383,III,Groudon,ground,,"Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",static/Pokemon/groudon.png
+384,III,Rayquaza,dragon,flying,Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.,static/Pokemon/rayquaza.png
+385,III,Jirachi,steel,psychic,"A legend states that Jirachi will make true any wish that is written on notes attached to its head when it awakens. If this Pokémon senses danger, it will fight without awakening.",static/Pokemon/jirachi.png
+386,III,Deoxys,psychic,,The DNA of a space virus underwent a sudden mutation upon exposure to a laser beam and resulted in Deoxys. The crystalline organ on this Pokémon’s chest appears to be its brain.,static/Pokemon/deoxys.png
+387,IV,Turtwig,grass,,Photosynthesis occurs across its body under the sun. The shell on its back is actually hardened soil.,static/Pokemon/turtwig.png
+388,IV,Grotle,grass,,"It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",static/Pokemon/grotle.png
+389,IV,Torterra,grass,ground,"Ancient people imagined that beneath the ground, a gigantic Torterra dwelled.",static/Pokemon/torterra.png
+390,IV,Chimchar,fire,,Its fiery rear end is fueled by gas made in its belly. Even rain can’t extinguish the fire.,static/Pokemon/chimchar.png
+391,IV,Monferno,fire,fighting,It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.,static/Pokemon/monferno.png
+392,IV,Infernape,fire,fighting,Its crown of fire is indicative of its fiery nature. It is beaten by none in terms of quickness.,static/Pokemon/infernape.png
+393,IV,Piplup,water,,It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.,static/Pokemon/piplup.png
+394,IV,Prinplup,water,,"It lives alone, away from others. Apparently, every one of them believes it is the most important.",static/Pokemon/prinplup.png
+395,IV,Empoleon,water,steel,It swims as fast as a jet boat. The edges of its wings are sharp and can slice apart drifting ice.,static/Pokemon/empoleon.png
+396,IV,Starly,normal,flying,"They flock in great numbers. Though small, they flap their wings with great power.",static/Pokemon/starly.png
+397,IV,Staravia,normal,flying,"They maintain huge flocks, although fierce scuffles break out between various flocks.",static/Pokemon/staravia.png
+398,IV,Staraptor,normal,flying,The muscles in its wings and legs are strong. It can easily fly while gripping a small Pokémon.,static/Pokemon/staraptor.png
+399,IV,Bidoof,normal,,"With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",static/Pokemon/bidoof.png
+400,IV,Bibarel,normal,water,It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.,static/Pokemon/bibarel.png
+401,IV,Kricketot,bug,,It chats with others using the sounds of its colliding antennae. These sounds are fall hallmarks.,static/Pokemon/kricketot.png
+402,IV,Kricketune,bug,,It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.,static/Pokemon/kricketune.png
+403,IV,Shinx,electric,,This Pokémon generates electricity by contracting its muscles. Excited trembling is a sign that Shinx is generating a tremendous amount of electricity.,static/Pokemon/shinx.png
+404,IV,Luxio,electric,,"By joining its tail with that of another Luxio, this Pokémon can receive some of the other Luxio’s electricity and power up its own electric blasts.",static/Pokemon/luxio.png
+405,IV,Luxray,electric,,"Luxray can see through solid objects. It will instantly spot prey trying to hide behind walls, even if the walls are thick.",static/Pokemon/luxray.png
+406,IV,Budew,grass,poison,"The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison’s toxicity is increased.",static/Pokemon/budew.png
+407,IV,Roserade,grass,poison,"After captivating opponents with its sweet scent, it lashes them with its thorny whips.",static/Pokemon/roserade.png
+408,IV,Cranidos,rock,,"A primeval Pokémon, it possesses a hard and sturdy skull, lacking any intelligence within.",static/Pokemon/cranidos.png
+409,IV,Rampardos,rock,,"In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.",static/Pokemon/rampardos.png
+410,IV,Shieldon,rock,steel,"A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.",static/Pokemon/shieldon.png
+411,IV,Bastiodon,rock,steel,"The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored.",static/Pokemon/bastiodon.png
+412,IV,Burmy,bug,,"To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",static/Pokemon/burmy.png
+413,IV,Wormadam,bug,grass,Its appearance changes depending on where it evolved. The materials on hand become a part of its body.,static/Pokemon/wormadam.png
+414,IV,Mothim,bug,flying,It loves the honey of flowers and steals honey collected by Combee.,static/Pokemon/mothim.png
+415,IV,Combee,bug,flying,The members of the trio spend all their time together. Each one has a slightly different taste in nectar.,static/Pokemon/combee.png
+416,IV,Vespiquen,bug,flying,It skillfully commands its grubs in battles with its enemies. The grubs are willing to risk their lives to defend Vespiquen.,static/Pokemon/vespiquen.png
+417,IV,Pachirisu,electric,,It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.,static/Pokemon/pachirisu.png
+418,IV,Buizel,water,,"It swims by rotating its two tails like a screw. When it dives, its flotation sac collapses.",static/Pokemon/buizel.png
+419,IV,Floatzel,water,,It floats using its well-developed flotation sac. It assists in the rescues of drowning people.,static/Pokemon/floatzel.png
+420,IV,Cherubi,grass,,"It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.",static/Pokemon/cherubi.png
+421,IV,Cherrim,grass,,"As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",static/Pokemon/cherrim.png
+422,IV,Shellos,water,,"This Pokémon’s habitat shapes its physique. According to some theories, life in warm ocean waters causes this variation to develop.",static/Pokemon/shellos.png
+423,IV,Gastrodon,water,ground,"Its search for food sometimes leads it onto land, where it leaves behind a sticky trail of slime as it passes through.",static/Pokemon/gastrodon.png
+424,IV,Ambipom,normal,,"In their search for comfortable trees, they get into territorial disputes with groups of Passimian. They win about half the time.",static/Pokemon/ambipom.png
+425,IV,Drifloon,ghost,flying,"Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.",static/Pokemon/drifloon.png
+426,IV,Drifblim,ghost,flying,"Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk.",static/Pokemon/drifblim.png
+427,IV,Buneary,normal,,"If both of Buneary’s ears are rolled up, something is wrong with its body or mind. It’s a sure sign the Pokémon is in need of care.",static/Pokemon/buneary.png
+428,IV,Lopunny,normal,,"Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.",static/Pokemon/lopunny.png
+429,IV,Mismagius,ghost,,"Feared for its wrath and the curses it spreads, this Pokémon will also, on a whim, cast spells that help people.",static/Pokemon/mismagius.png
+430,IV,Honchkrow,dark,flying,It will absolutely not forgive failure from or betrayal by its goons. It has no choice in this if it wants to maintain the order of the flock.,static/Pokemon/honchkrow.png
+431,IV,Glameow,normal,,It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.,static/Pokemon/glameow.png
+432,IV,Purugly,normal,,It would claim another Pokémon’s nest as its own if it finds a nest sufficiently comfortable.,static/Pokemon/purugly.png
+433,IV,Chingling,psychic,,"Each time it hops, it makes a ringing sound. It deafens foes by emitting high-frequency cries.",static/Pokemon/chingling.png
+434,IV,Stunky,poison,dark,"From its rear, it sprays a foul-smelling liquid at opponents. It aims for their faces, and it can hit them from over 16 feet away.",static/Pokemon/stunky.png
+435,IV,Skuntank,poison,dark,"In its belly, it reserves stinky fluid that it shoots from its tail during battle. As this Pokémon’s diet varies, so does the stench of its fluid.",static/Pokemon/skuntank.png
+436,IV,Bronzor,steel,psychic,"It appears in ancient ruins. The pattern on its body doesn’t come from any culture in the Galar region, so it remains shrouded in mystery.",static/Pokemon/bronzor.png
+437,IV,Bronzong,steel,psychic,"Some believe it to be a deity that summons rain clouds. When angered, it lets out a warning cry that rings out like the tolling of a bell.",static/Pokemon/bronzong.png
+438,IV,Bonsly,rock,,"It expels both sweat and tears from its eyes. The sweat is a little salty, while the tears have a slight bitterness.",static/Pokemon/bonsly.png
+439,IV,Mime Jr,psychic,fairy,"It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.",static/Pokemon/mime jr.png
+440,IV,Happiny,normal,,"Mimicking Chansey, Happiny will place an egg- shaped stone in its belly pouch. Happiny will treasure this stone.",static/Pokemon/happiny.png
+441,IV,Chatot,normal,flying,It mimics the cries of other Pokémon to trick them into thinking it’s one of them. This way they won’t attack it.,static/Pokemon/chatot.png
+442,IV,Spiritomb,ghost,dark,Exactly 108 spirits gathered to become this Pokémon. Apparently there are some ill-natured spirits in the mix.,static/Pokemon/spiritomb.png
+443,IV,Gible,dragon,ground,"Gible prefers to stay in narrow holes in the sides of caves heated by geothermal energy. This way, Gible can stay warm even during a blizzard.",static/Pokemon/gible.png
+444,IV,Gabite,dragon,ground,This Pokémon emits ultrasonic waves from a protrusion on either side of its head to probe pitch-dark caves.,static/Pokemon/gabite.png
+445,IV,Garchomp,dragon,ground,"Garchomp makes its home in volcanic mountains. It flies through the sky as fast as a jet airplane, hunting down as much prey as it can.",static/Pokemon/garchomp.png
+446,IV,Munchlax,normal,,"Stuffing itself with vast amounts of food is its only concern. Whether the food is rotten or fresh, yummy or tasteless—it does not care.",static/Pokemon/munchlax.png
+447,IV,Riolu,fighting,,"It’s exceedingly energetic, with enough stamina to keep running all through the night. Taking it for walks can be a challenging experience.",static/Pokemon/riolu.png
+448,IV,Lucario,fighting,steel,"It controls waves known as auras, which are powerful enough to pulverize huge rocks. It uses these waves to take down its prey.",static/Pokemon/lucario.png
+449,IV,Hippopotas,ground,,"It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose.",static/Pokemon/hippopotas.png
+450,IV,Hippowdon,ground,,"Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon.",static/Pokemon/hippowdon.png
+451,IV,Skorupi,poison,bug,"After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent.",static/Pokemon/skorupi.png
+452,IV,Drapion,poison,dark,"Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.",static/Pokemon/drapion.png
+453,IV,Croagunk,poison,fighting,"It makes frightening noises with its poison-filled cheek sacs. When opponents flinch, Croagunk hits them with a poison jab.",static/Pokemon/croagunk.png
+454,IV,Toxicroak,poison,fighting,It bounces toward opponents and gouges them with poisonous claws. No more than a scratch is needed to knock out its adversaries.,static/Pokemon/toxicroak.png
+455,IV,Carnivine,grass,,"It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",static/Pokemon/carnivine.png
+456,IV,Finneon,water,,"When night falls, their pink patterns begin to shine. They’re popular with divers, so there are resorts that feed them to keep them close.",static/Pokemon/finneon.png
+457,IV,Lumineon,water,,"Deep down at the bottom of the ocean, prey is scarce. Lumineon get into fierce disputes with Lanturn over food.",static/Pokemon/lumineon.png
+458,IV,Mantyke,water,flying,Mantyke living in Galar seem to be somewhat sluggish. The colder waters of the seas in this region may be the cause.,static/Pokemon/mantyke.png
+459,IV,Snover,grass,ice,It lives on snowy mountains. It sinks its legs into the snow to absorb water and keep its own temperature down.,static/Pokemon/snover.png
+460,IV,Abomasnow,grass,ice,"If it sees any packs of Darumaka going after Snover, it chases them off, swinging its sizable arms like hammers.",static/Pokemon/abomasnow.png
+461,IV,Weavile,dark,ice,They attack their quarry in packs. Prey as large as Mamoswine easily fall to the teamwork of a group of Weavile.,static/Pokemon/weavile.png
+462,IV,Magnezone,electric,steel,Some say that Magnezone receives signals from space via the antenna on its head and that it’s being controlled by some mysterious being.,static/Pokemon/magnezone.png
+463,IV,Lickilicky,normal,,Lickilicky’s strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky’s tongue can stretch so far.,static/Pokemon/lickilicky.png
+464,IV,Rhyperior,ground,rock,It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.,static/Pokemon/rhyperior.png
+465,IV,Tangrowth,grass,,"Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",static/Pokemon/tangrowth.png
+466,IV,Electivire,electric,,The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.,static/Pokemon/electivire.png
+467,IV,Magmortar,fire,,"When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.",static/Pokemon/magmortar.png
+468,IV,Togekiss,fairy,flying,"These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they’ve hardly been seen at all.",static/Pokemon/togekiss.png
+469,IV,Yanmega,bug,flying,It prefers to battle by biting apart foes’ heads instantly while flying by at high speed.,static/Pokemon/yanmega.png
+470,IV,Leafeon,grass,,Galarians favor the distinctive aroma that drifts from this Pokémon’s leaves. There’s a popular perfume made using that scent.,static/Pokemon/leafeon.png
+471,IV,Glaceon,ice,,Any who become captivated by the beauty of the snowfall that Glaceon creates will be frozen before they know it.,static/Pokemon/glaceon.png
+472,IV,Gliscor,ground,flying,"It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",static/Pokemon/gliscor.png
+473,IV,Mamoswine,ice,ground,"This Pokémon can be spotted in wall paintings from as far back as 10,000 years ago. For a while, it was thought to have gone extinct.",static/Pokemon/mamoswine.png
+474,IV,Porygon-Z,normal,,"Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z’s behavior.",static/Pokemon/porygon-z.png
+475,IV,Gallade,psychic,fighting,"True to its honorable-warrior image, it uses the blades on its elbows only in defense of something or someone.",static/Pokemon/gallade.png
+476,IV,Probopass,rock,steel,"Although it can control its units known as Mini-Noses, they sometimes get lost and don’t come back.",static/Pokemon/probopass.png
+477,IV,Dusknoir,ghost,,"At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.",static/Pokemon/dusknoir.png
+478,IV,Froslass,ice,ghost,"After a woman met her end on a snowy mountain, her regrets lingered on. From them, this Pokémon was born. Its favorite food is frozen souls.",static/Pokemon/froslass.png
+479,IV,Rotom,electric,ghost,One boy’s invention led to the development of many different machines that take advantage of Rotom’s unique capabilities.,static/Pokemon/rotom.png
+480,IV,Uxie,psychic,,Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes.,static/Pokemon/uxie.png
+481,IV,Mesprit,psychic,,"Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",static/Pokemon/mesprit.png
+482,IV,Azelf,psychic,,Known as “The Being of Willpower.” It sleeps at the bottom of a lake to keep the world in balance.,static/Pokemon/azelf.png
+483,IV,Dialga,steel,dragon,A Pokémon spoken of in legend. It is said that time began moving when Dialga was born.,static/Pokemon/dialga.png
+484,IV,Palkia,water,dragon,It is said to live in a gap in the spatial dimension parallel to ours. It appears in mythology.,static/Pokemon/palkia.png
+485,IV,Heatran,fire,steel,It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.,static/Pokemon/heatran.png
+486,IV,Regigigas,normal,,"It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",static/Pokemon/regigigas.png
+487,IV,Giratina,ghost,dragon,"This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",static/Pokemon/giratina.png
+488,IV,Cresselia,psychic,,Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.,static/Pokemon/cresselia.png
+489,IV,Phione,water,,"When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",static/Pokemon/phione.png
+490,IV,Manaphy,water,,It is born with a wondrous power that lets it bond with any kind of Pokémon.,static/Pokemon/manaphy.png
+491,IV,Darkrai,dark,,"It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.",static/Pokemon/darkrai.png
+492,IV,Shaymin,grass,grass,It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.,static/Pokemon/shaymin.png
+493,IV,Arceus,normal,,"According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.",static/Pokemon/arceus.png
+494,V,Victini,psychic,fire,"This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",static/Pokemon/victini.png
+495,V,Snivy,grass,,Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.,static/Pokemon/snivy.png
+496,V,Servine,grass,,"It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",static/Pokemon/servine.png
+497,V,Serperior,grass,,It only gives its all against strong opponents who are not fazed by the glare from Serperior’s noble eyes.,static/Pokemon/serperior.png
+498,V,Tepig,fire,,It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.,static/Pokemon/tepig.png
+499,V,Pignite,fire,fighting,"The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power.",static/Pokemon/pignite.png
+500,V,Emboar,fire,fighting,It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.,static/Pokemon/emboar.png
+501,V,Oshawott,water,,The scalchop on its stomach isn’t just used for battle—it can be used to break open hard berries as well.,static/Pokemon/oshawott.png
+502,V,Dewott,water,,Strict training is how it learns its flowing double-scalchop technique.,static/Pokemon/dewott.png
+503,V,Samurott,water,,"In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs.",static/Pokemon/samurott.png
+504,V,Patrat,normal,,"Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",static/Pokemon/patrat.png
+505,V,Watchog,normal,,"Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",static/Pokemon/watchog.png
+506,V,Lillipup,normal,,This Pokémon is courageous but also cautious. It uses the soft fur covering its face to collect information about its surroundings.,static/Pokemon/lillipup.png
+507,V,Herdier,normal,,Herdier is a very smart and friendly Pokémon. So much so that there’s a theory that Herdier was the first Pokémon to partner with people.,static/Pokemon/herdier.png
+508,V,Stoutland,normal,,These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.,static/Pokemon/stoutland.png
+509,V,Purrloin,dark,,It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.,static/Pokemon/purrloin.png
+510,V,Liepard,dark,,Don’t be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.,static/Pokemon/liepard.png
+511,V,Pansage,grass,,It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.,static/Pokemon/pansage.png
+512,V,Simisage,grass,,It attacks enemies with strikes of its thorn-covered tail. This Pokémon is wild tempered.,static/Pokemon/simisage.png
+513,V,Pansear,fire,,"Very intelligent, it roasts berries before eating them. It likes to help people.",static/Pokemon/pansear.png
+514,V,Simisear,fire,,A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.,static/Pokemon/simisear.png
+515,V,Panpour,water,,The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.,static/Pokemon/panpour.png
+516,V,Simipour,water,,"The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",static/Pokemon/simipour.png
+517,V,Munna,psychic,,"Late at night, it appears beside people’s pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",static/Pokemon/munna.png
+518,V,Musharna,psychic,,"When dark mists emanate from its body, don’t get too near. If you do, your nightmares will become reality.",static/Pokemon/musharna.png
+519,V,Pidove,normal,flying,"Where people go, these Pokémon follow. If you’re scattering food for them, be careful—several hundred of them can gather at once.",static/Pokemon/pidove.png
+520,V,Tranquill,normal,flying,"It can fly moderately quickly. No matter how far it travels, it can always find its way back to its master and its nest.",static/Pokemon/tranquill.png
+521,V,Unfezant,normal,flying,"Unfezant are exceptional fliers. The females are known for their stamina, while the males outclass them in terms of speed.",static/Pokemon/unfezant.png
+522,V,Blitzle,electric,,"When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",static/Pokemon/blitzle.png
+523,V,Zebstrika,electric,,"When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.",static/Pokemon/zebstrika.png
+524,V,Roggenrola,rock,,"It’s as hard as steel, but apparently a long soak in water will cause it to soften a bit.",static/Pokemon/roggenrola.png
+525,V,Boldore,rock,,"If you see its orange crystals start to glow, be wary. It’s about to fire off bursts of energy.",static/Pokemon/boldore.png
+526,V,Gigalith,rock,,"This hardy Pokémon can often be found on construction sites and in mines, working alongside people and Copperajah.",static/Pokemon/gigalith.png
+527,V,Woobat,psychic,flying,"While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it’s evidence that Woobat live there.",static/Pokemon/woobat.png
+528,V,Swoobat,psychic,flying,"Emitting powerful sound waves tires it out. Afterward, it won’t be able to fly for a little while.",static/Pokemon/swoobat.png
+529,V,Drilbur,ground,,It brings its claws together and whirls around at high speed before rushing toward its prey.,static/Pokemon/drilbur.png
+530,V,Excadrill,ground,steel,It’s not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill’s rampant digging.,static/Pokemon/excadrill.png
+531,V,Audino,normal,,Audino’s sense of hearing is superb. Not even a pebble rolling along over a mile away will escape Audino’s ears.,static/Pokemon/audino.png
+532,V,Timburr,fighting,,"It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.",static/Pokemon/timburr.png
+533,V,Gurdurr,fighting,,"It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.",static/Pokemon/gurdurr.png
+534,V,Conkeldurr,fighting,,"Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.",static/Pokemon/conkeldurr.png
+535,V,Tympole,water,,Graceful ripples running across the water’s surface are a sure sign that Tympole are singing in high-pitched voices below.,static/Pokemon/tympole.png
+536,V,Palpitoad,water,ground,"It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",static/Pokemon/palpitoad.png
+537,V,Seismitoad,water,ground,The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.,static/Pokemon/seismitoad.png
+538,V,Throh,fighting,,"It performs throwing moves with first-rate skill. Over the course of many battles, Throh’s belt grows darker as it absorbs its wearer’s sweat.",static/Pokemon/throh.png
+539,V,Sawk,fighting,,"If you see a Sawk training in the mountains in its single-minded pursuit of strength, it’s best to quietly pass by.",static/Pokemon/sawk.png
+540,V,Sewaddle,bug,grass,This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.,static/Pokemon/sewaddle.png
+541,V,Swadloon,bug,grass,Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.,static/Pokemon/swadloon.png
+542,V,Leavanny,bug,grass,"Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth.",static/Pokemon/leavanny.png
+543,V,Venipede,bug,poison,"Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",static/Pokemon/venipede.png
+544,V,Whirlipede,bug,poison,This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.,static/Pokemon/whirlipede.png
+545,V,Scolipede,bug,poison,Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws’ toxic spikes.,static/Pokemon/scolipede.png
+546,V,Cottonee,grass,fairy,"It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.",static/Pokemon/cottonee.png
+547,V,Whimsicott,grass,fairy,"It scatters cotton all over the place as a prank. If it gets wet, it’ll become too heavy to move and have no choice but to answer for its mischief.",static/Pokemon/whimsicott.png
+548,V,Petilil,grass,,Petilil appears around sources of clean water. Boiling leaves from this Pokémon’s head results in a liquid that’s sometimes used as a bug repellent.,static/Pokemon/petilil.png
+549,V,Lilligant,grass,,It’s believed that even first-rate gardeners have a hard time getting the flower on a Lilligant’s head to bloom.,static/Pokemon/lilligant.png
+550,V,Basculin,water,,Anglers love the fight this Pokémon puts up on the hook. And there are always more to catch— many people release them into lakes illicitly.,static/Pokemon/basculin.png
+551,V,Sandile,ground,dark,"The desert gets cold at night, so when the sun sets, this Pokémon burrows deep into the sand and sleeps until sunrise.",static/Pokemon/sandile.png
+552,V,Krokorok,ground,dark,Krokorok has specialized eyes that enable it to see in the dark. This ability lets Krokorok hunt in the dead of night without getting lost.,static/Pokemon/krokorok.png
+553,V,Krookodile,ground,dark,This Pokémon is known as the Bully of the Sands. Krookodile’s mighty jaws can bite through heavy plates of iron with almost no effort at all.,static/Pokemon/krookodile.png
+554,V,Darumaka,fire,ice,"It derives its power from fire burning inside its body. If the fire dwindles, this Pokémon will immediately fall asleep.",static/Pokemon/darumaka.png
+555,V,Darmanitan,fire,fire,The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.,static/Pokemon/darmanitan.png
+556,V,Maractus,grass,,"With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.",static/Pokemon/maractus.png
+557,V,Dwebble,bug,rock,"When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokémon is the natural enemy of Roggenrola and Rolycoly.",static/Pokemon/dwebble.png
+558,V,Crustle,bug,rock,This highly territorial Pokémon prefers dry climates. It won’t come out of its boulder on rainy days.,static/Pokemon/crustle.png
+559,V,Scraggy,dark,fighting,"If it locks eyes with you, watch out! Nothing and no one is safe from the reckless headbutts of this troublesome Pokémon.",static/Pokemon/scraggy.png
+560,V,Scrafty,dark,fighting,"As halfhearted as this Pokémon’s kicks may seem, they pack enough power to shatter Conkeldurr’s concrete pillars.",static/Pokemon/scrafty.png
+561,V,Sigilyph,psychic,flying,Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians’ emissaries.,static/Pokemon/sigilyph.png
+562,V,Yamask,ghost,ground,"It wanders through ruins by night, carrying a mask that’s said to have been the face it had when it was still human.",static/Pokemon/yamask.png
+563,V,Cofagrigus,ghost,,This Pokémon has a body of sparkling gold. People say it no longer remembers that it was once human.,static/Pokemon/cofagrigus.png
+564,V,Tirtouga,water,rock,"This Pokémon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",static/Pokemon/tirtouga.png
+565,V,Carracosta,water,rock,"Carracosta completely devours its prey—bones, shells, and all. Because of this, Carracosta’s own shell grows thick and sturdy.",static/Pokemon/carracosta.png
+566,V,Archen,rock,flying,"This Pokémon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But it’s very good at jumping.",static/Pokemon/archen.png
+567,V,Archeops,rock,flying,"It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",static/Pokemon/archeops.png
+568,V,Trubbish,poison,,"Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.",static/Pokemon/trubbish.png
+569,V,Garbodor,poison,,"This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",static/Pokemon/garbodor.png
+570,V,Zorua,dark,,Zorua is a timid Pokémon. This disposition seems to be what led to the development of Zorua’s ability to take on the forms of other creatures.,static/Pokemon/zorua.png
+571,V,Zoroark,dark,,"This Pokémon cares deeply about others of its kind, and it will conjure terrifying illusions to keep its den and pack safe.",static/Pokemon/zoroark.png
+572,V,Minccino,normal,,The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.,static/Pokemon/minccino.png
+573,V,Cinccino,normal,,Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won’t tolerate even a speck of the stuff.,static/Pokemon/cinccino.png
+574,V,Gothita,psychic,,"Though they’re still only babies, there’s psychic power stored in their ribbonlike feelers, and sometimes they use that power to fight.",static/Pokemon/gothita.png
+575,V,Gothorita,psychic,,"It’s said that when stars shine in the night sky, this Pokémon will spirit away sleeping children. Some call it the Witch of Punishment.",static/Pokemon/gothorita.png
+576,V,Gothitelle,psychic,,"It has tremendous psychic power, but it dislikes conflict. It’s also able to predict the future based on the movement of the stars.",static/Pokemon/gothitelle.png
+577,V,Solosis,psychic,,"It communicates with others telepathically. Its body is encapsulated in liquid, but if it takes a heavy blow, the liquid will leak out.",static/Pokemon/solosis.png
+578,V,Duosion,psychic,,Its psychic power can supposedly cover a range of more than half a mile—but only if its two brains can agree with each other.,static/Pokemon/duosion.png
+579,V,Reuniclus,psychic,,"While it could use its psychic abilities in battle, this Pokémon prefers to swing its powerful arms around to beat opponents into submission.",static/Pokemon/reuniclus.png
+580,V,Ducklett,water,flying,"When attacked, it uses its feathers to splash water, escaping under cover of the spray.",static/Pokemon/ducklett.png
+581,V,Swanna,water,flying,"Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.",static/Pokemon/swanna.png
+582,V,Vanillite,ice,,"Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",static/Pokemon/vanillite.png
+583,V,Vanillish,ice,,"By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.",static/Pokemon/vanillish.png
+584,V,Vanilluxe,ice,,"When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe.",static/Pokemon/vanilluxe.png
+585,V,Deerling,normal,grass,Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.,static/Pokemon/deerling.png
+586,V,Sawsbuck,normal,grass,They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns.,static/Pokemon/sawsbuck.png
+587,V,Emolga,electric,flying,"As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.",static/Pokemon/emolga.png
+588,V,Karrablast,bug,,Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.,static/Pokemon/karrablast.png
+589,V,Escavalier,bug,steel,They use shells they’ve stolen from Shelmet to arm and protect themselves. They’re very popular Pokémon in the Galar region.,static/Pokemon/escavalier.png
+590,V,Foongus,grass,poison,No one knows what the Poké Ball–like pattern on Foongus means or why Foongus has it.,static/Pokemon/foongus.png
+591,V,Amoonguss,grass,poison,"This Pokémon puffs poisonous spores at its foes. If the spores aren’t washed off quickly, they’ll grow into mushrooms wherever they land.",static/Pokemon/amoonguss.png
+592,V,Frillish,water,ghost,"It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the ocean’s surface.",static/Pokemon/frillish.png
+593,V,Jellicent,water,ghost,Most of this Pokémon’s body composition is identical to sea water. It makes sunken ships its lair.,static/Pokemon/jellicent.png
+594,V,Alomomola,water,,"Fishermen take them along on long voyages, because if you have an Alomomola with you, there’ll be no need for a doctor or medicine.",static/Pokemon/alomomola.png
+595,V,Joltik,bug,electric,Joltik can be found clinging to other Pokémon. It’s soaking up static electricity because it can’t produce a charge on its own.,static/Pokemon/joltik.png
+596,V,Galvantula,bug,electric,It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.,static/Pokemon/galvantula.png
+597,V,Ferroseed,grass,steel,"It defends itself by launching spikes, but its aim isn’t very good at first. Only after a lot of practice will it improve.",static/Pokemon/ferroseed.png
+598,V,Ferrothorn,grass,steel,"This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",static/Pokemon/ferrothorn.png
+599,V,Klink,steel,,The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.,static/Pokemon/klink.png
+600,V,Klang,steel,,"When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon’s rotation speed increases sharply.",static/Pokemon/klang.png
+601,V,Klinklang,steel,,"From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",static/Pokemon/klinklang.png
+602,V,Tynamo,electric,,"While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.",static/Pokemon/tynamo.png
+603,V,Eelektrik,electric,,It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.,static/Pokemon/eelektrik.png
+604,V,Eelektross,electric,,"With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",static/Pokemon/eelektross.png
+605,V,Elgyem,psychic,,"If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",static/Pokemon/elgyem.png
+606,V,Beheeyem,psychic,,"Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",static/Pokemon/beheeyem.png
+607,V,Litwick,ghost,fire,The flame on its head keeps its body slightly warm. This Pokémon takes lost children by the hand to guide them to the spirit world.,static/Pokemon/litwick.png
+608,V,Lampent,ghost,fire,"This Pokémon appears just before someone passes away, so it’s feared as an emissary of death.",static/Pokemon/lampent.png
+609,V,Chandelure,ghost,fire,This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.,static/Pokemon/chandelure.png
+610,V,Axew,dragon,,These Pokémon nest in the ground and use their tusks to crush hard berries. Crushing berries is also how they test each other’s strength.,static/Pokemon/axew.png
+611,V,Fraxure,dragon,,"After battle, this Pokémon carefully sharpens its tusks on river rocks. It needs to take care of its tusks—if one breaks, it will never grow back.",static/Pokemon/fraxure.png
+612,V,Haxorus,dragon,,Its resilient tusks are its pride and joy. It licks up dirt to take in the minerals it needs to keep its tusks in top condition.,static/Pokemon/haxorus.png
+613,V,Cubchoo,ice,,"When this Pokémon is in good health, its snot becomes thicker and stickier. It will smear its snot on anyone it doesn’t like.",static/Pokemon/cubchoo.png
+614,V,Beartic,ice,,"It swims through frigid seas, searching for prey. From its frozen breath, it forms icy fangs that are harder than steel.",static/Pokemon/beartic.png
+615,V,Cryogonal,ice,,"With its icy chains, Cryogonal freezes those it encounters. It then takes its victims away to somewhere unknown.",static/Pokemon/cryogonal.png
+616,V,Shelmet,bug,,"When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",static/Pokemon/shelmet.png
+617,V,Accelgor,bug,,It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.,static/Pokemon/accelgor.png
+618,V,Stunfisk,ground,electric,"Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.",static/Pokemon/stunfisk.png
+619,V,Mienfoo,fighting,,"In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.",static/Pokemon/mienfoo.png
+620,V,Mienshao,fighting,,"When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.",static/Pokemon/mienshao.png
+621,V,Druddigon,dragon,,"Druddigon lives in caves, but it never skips sunbathing—it won’t be able to move if its body gets too cold.",static/Pokemon/druddigon.png
+622,V,Golett,ground,ghost,"They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.",static/Pokemon/golett.png
+623,V,Golurk,ground,ghost,Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.,static/Pokemon/golurk.png
+624,V,Pawniard,dark,steel,It uses river stones to maintain the cutting edges of the blades covering its body. These sharpened blades allow it to bring down opponents.,static/Pokemon/pawniard.png
+625,V,Bisharp,dark,steel,"It’s accompanied by a large retinue of Pawniard. Bisharp keeps a keen eye on its minions, ensuring none of them even think of double-crossing it.",static/Pokemon/bisharp.png
+626,V,Bouffalant,normal,,These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.,static/Pokemon/bouffalant.png
+627,V,Rufflet,normal,flying,"If it spies a strong Pokémon, Rufflet can’t resist challenging it to a battle. But if Rufflet loses, it starts bawling.",static/Pokemon/rufflet.png
+628,V,Braviary,normal,flying,"Known for its bravery and pride, this majestic Pokémon is often seen as a motif for various kinds of emblems.",static/Pokemon/braviary.png
+629,V,Vullaby,dark,flying,It wears a bone to protect its rear. It often squabbles with others of its kind over particularly comfy bones.,static/Pokemon/vullaby.png
+630,V,Mandibuzz,dark,flying,"Although it’s a bit of a ruffian, this Pokémon will take lost Vullaby under its wing and care for them till they’re ready to leave the nest.",static/Pokemon/mandibuzz.png
+631,V,Heatmor,fire,,"There’s a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.",static/Pokemon/heatmor.png
+632,V,Durant,bug,steel,"They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",static/Pokemon/durant.png
+633,V,Deino,dark,dragon,"When it encounters something, its first urge is usually to bite it. If it likes what it tastes, it will commit the associated scent to memory.",static/Pokemon/deino.png
+634,V,Zweilous,dark,dragon,"While hunting for prey, Zweilous wanders its territory, its two heads often bickering over which way to go.",static/Pokemon/zweilous.png
+635,V,Hydreigon,dark,dragon,There are a slew of stories about villages that were destroyed by Hydreigon. It bites anything that moves.,static/Pokemon/hydreigon.png
+636,V,Larvesta,bug,fire,The people of ancient times believed that Larvesta fell from the sun.,static/Pokemon/larvesta.png
+637,V,Volcarona,bug,fire,Volcarona scatters burning scales. Some say it does this to start fires. Others say it’s trying to rescue those that suffer in the cold.,static/Pokemon/volcarona.png
+638,V,Cobalion,steel,fighting,"This Pokémon appears in a legend alongside Terrakion and Virizion, fighting against humans in defense of the Unova region’s Pokémon.",static/Pokemon/cobalion.png
+639,V,Terrakion,rock,fighting,It has phenomenal power. It will mercilessly crush anyone or anything that bullies small Pokémon.,static/Pokemon/terrakion.png
+640,V,Virizion,grass,fighting,A legend tells of this Pokémon working together with Cobalion and Terrakion to protect the Pokémon of the Unova region.,static/Pokemon/virizion.png
+641,V,Tornadus,flying,,The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.,static/Pokemon/tornadus.png
+642,V,Thundurus,electric,flying,The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.,static/Pokemon/thundurus.png
+643,V,Reshiram,dragon,fire,This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.,static/Pokemon/reshiram.png
+644,V,Zekrom,dragon,electric,This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.,static/Pokemon/zekrom.png
+645,V,Landorus,ground,flying,Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”,static/Pokemon/landorus.png
+646,V,Kyurem,dragon,ice,This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.,static/Pokemon/kyurem.png
+647,V,Keldeo,water,fighting,"It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",static/Pokemon/keldeo.png
+648,V,Meloetta,normal,psychic,The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.,static/Pokemon/meloetta.png
+649,V,Genesect,bug,steel,This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.,static/Pokemon/genesect.png
+650,VI,Chespin,grass,,"The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.",static/Pokemon/chespin.png
+651,VI,Quilladin,grass,,It relies on its sturdy shell to deflect predators’ attacks. It counterattacks with its sharp quills.,static/Pokemon/quilladin.png
+652,VI,Chesnaught,grass,fighting,Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.,static/Pokemon/chesnaught.png
+653,VI,Fennekin,fire,,"Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.",static/Pokemon/fennekin.png
+654,VI,Braixen,fire,,"It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.",static/Pokemon/braixen.png
+655,VI,Delphox,fire,psychic,"It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",static/Pokemon/delphox.png
+656,VI,Froakie,water,,It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.,static/Pokemon/froakie.png
+657,VI,Frogadier,water,,"It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.",static/Pokemon/frogadier.png
+658,VI,Greninja,water,dark,"It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.",static/Pokemon/greninja.png
+659,VI,Bunnelby,normal,,"It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",static/Pokemon/bunnelby.png
+660,VI,Diggersby,normal,ground,"With power equal to an excavator, it can dig through dense bedrock. It’s a huge help during tunnel construction.",static/Pokemon/diggersby.png
+661,VI,Fletchling,normal,flying,Its melodious cries are actually warnings. Fletchling will mercilessly peck at anything that enters its territory.,static/Pokemon/fletchling.png
+662,VI,Fletchinder,fire,flying,"Fletchinder launches embers into the den of its prey. When the prey comes leaping out, Fletchinder’s sharp talons finish it off.",static/Pokemon/fletchinder.png
+663,VI,Talonflame,fire,flying,"Talonflame mainly preys upon other bird Pokémon. To intimidate opponents, it sends embers spewing from gaps between its feathers.",static/Pokemon/talonflame.png
+664,VI,Scatterbug,bug,,"When under attack from bird Pokémon, it spews a poisonous black powder that causes paralysis on contact.",static/Pokemon/scatterbug.png
+665,VI,Spewpa,bug,,"It lives hidden within thicket shadows. When predators attack, it quickly bristles the fur covering its body in an effort to threaten them.",static/Pokemon/spewpa.png
+666,VI,Vivillon,bug,flying,Vivillon with many different patterns are found all over the world. These patterns are affected by the climate of their habitat.,static/Pokemon/vivillon.png
+667,VI,Litleo,fire,normal,"When they’re young, they live with a pride. Once they’re able to hunt prey on their own, they’re kicked out and have to make their own way.",static/Pokemon/litleo.png
+668,VI,Pyroar,fire,normal,"The males are usually lazy, but when attacked by a strong foe, a male will protect its friends with no regard for its own safety.",static/Pokemon/pyroar.png
+669,VI,Flabébé,fairy,,"It’s not safe without the power of a flower, but it will keep traveling around until it finds one with the color and shape it wants.",static/Pokemon/flabébé.png
+670,VI,Floette,fairy,,"It raises flowers and uses them as weapons. The more gorgeous the blossom, the more power it contains.",static/Pokemon/floette.png
+671,VI,Florges,fairy,,It controls the flowers it grows. The petal blizzards that Florges triggers are overwhelming in their beauty and power.,static/Pokemon/florges.png
+672,VI,Skiddo,grass,,"Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.",static/Pokemon/skiddo.png
+673,VI,Gogoat,grass,,It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.,static/Pokemon/gogoat.png
+674,VI,Pancham,fighting,,It chooses a Pangoro as its master and then imitates its master’s actions. This is how it learns to battle and hunt for prey.,static/Pokemon/pancham.png
+675,VI,Pangoro,fighting,dark,"This Pokémon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",static/Pokemon/pangoro.png
+676,VI,Furfrou,normal,,There was an era when aristocrats would compete to see who could trim their Furfrou’s fur into the most exquisite style.,static/Pokemon/furfrou.png
+677,VI,Espurr,psychic,,"Though Espurr’s expression never changes, behind that blank stare is an intense struggle to contain its devastating psychic power.",static/Pokemon/espurr.png
+678,VI,Meowstic,psychic,,"Revealing the eyelike patterns on the insides of its ears will unleash its psychic powers. It normally keeps the patterns hidden, however.",static/Pokemon/meowstic.png
+679,VI,Honedge,steel,ghost,Honedge’s soul once belonged to a person who was killed a long time ago by the sword that makes up Honedge’s body.,static/Pokemon/honedge.png
+680,VI,Doublade,steel,ghost,Honedge evolves into twins. The two blades rub together to emit a metallic sound that unnerves opponents.,static/Pokemon/doublade.png
+681,VI,Aegislash,steel,ghost,"In this defensive stance, Aegislash uses its steel body and a force field of spectral power to reduce the damage of any attack.",static/Pokemon/aegislash.png
+682,VI,Spritzee,fairy,,A scent pouch within this Pokémon’s body allows it to create various scents. A change in its diet will alter the fragrance it produces.,static/Pokemon/spritzee.png
+683,VI,Aromatisse,fairy,,The scent that constantly emits from its fur is so powerful that this Pokémon’s companions will eventually lose their sense of smell.,static/Pokemon/aromatisse.png
+684,VI,Swirlix,fairy,,"It eats its own weight in sugar every day. If it doesn’t get enough sugar, it becomes incredibly grumpy.",static/Pokemon/swirlix.png
+685,VI,Slurpuff,fairy,,"By taking in a person’s scent, it can sniff out their mental and physical condition. It’s hoped that this skill will have many medical applications.",static/Pokemon/slurpuff.png
+686,VI,Inkay,dark,psychic,It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light.,static/Pokemon/inkay.png
+687,VI,Malamar,dark,psychic,"Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar’s control.",static/Pokemon/malamar.png
+688,VI,Binacle,rock,water,"After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.",static/Pokemon/binacle.png
+689,VI,Barbaracle,rock,water,Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.,static/Pokemon/barbaracle.png
+690,VI,Skrelp,poison,water,"It drifts in the ocean, blending in with floating seaweed. When other Pokémon come to feast on the seaweed, Skrelp feasts on them instead.",static/Pokemon/skrelp.png
+691,VI,Dragalge,poison,dragon,Dragalge uses a poisonous liquid capable of corroding metal to send tankers that enter its territory to the bottom of the sea.,static/Pokemon/dragalge.png
+692,VI,Clauncher,water,,"Clauncher’s claws can fall off during battle, but they’ll regenerate. The meat inside the claws is popular as a delicacy in Galar.",static/Pokemon/clauncher.png
+693,VI,Clawitzer,water,,"After using the feelers on its oversized claw to detect the location of prey, Clawitzer launches a cannonball of water at its target.",static/Pokemon/clawitzer.png
+694,VI,Helioptile,electric,normal,"When spread, the frills on its head act like solar panels, generating the power behind this Pokémon’s electric moves.",static/Pokemon/helioptile.png
+695,VI,Heliolisk,electric,normal,"A now-vanished desert culture treasured these Pokémon. Appropriately, when Heliolisk came to the Galar region, treasure came with them.",static/Pokemon/heliolisk.png
+696,VI,Tyrunt,rock,dragon,"This is an ancient Pokémon, revived in modern times. It has a violent disposition, and it’ll tear apart anything it gets between its hefty jaws.",static/Pokemon/tyrunt.png
+697,VI,Tyrantrum,rock,dragon,"This Pokémon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.",static/Pokemon/tyrantrum.png
+698,VI,Amaura,rock,ice,"This Pokémon was successfully restored from a fossil. In the past, it lived with others of its kind in cold lands where there were fewer predators.",static/Pokemon/amaura.png
+699,VI,Aurorus,rock,ice,"Aurorus was restored from a fossil. It’s said that when this Pokémon howls, auroras appear in the night sky.",static/Pokemon/aurorus.png
+700,VI,Sylveon,fairy,,"By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.",static/Pokemon/sylveon.png
+701,VI,Hawlucha,fighting,flying,"It drives its opponents to exhaustion with its agile maneuvers, then ends the fight with a flashy finishing move.",static/Pokemon/hawlucha.png
+702,VI,Dedenne,electric,fairy,A Dedenne’s whiskers pick up electrical waves other Dedenne send out. These Pokémon share locations of food or electricity with one another.,static/Pokemon/dedenne.png
+703,VI,Carbink,rock,fairy,"When beset by attackers, Carbink wipes them all out by firing high-energy beams from the gems embedded in its body.",static/Pokemon/carbink.png
+704,VI,Goomy,dragon,,"Because most of its body is water, it will dry up if the weather becomes too arid. It’s considered the weakest dragon Pokémon.",static/Pokemon/goomy.png
+705,VI,Sliggoo,dragon,,"Although this Pokémon isn’t very strong, its body is coated in a caustic slime that can melt through anything, so predators steer clear of it.",static/Pokemon/sliggoo.png
+706,VI,Goodra,dragon,,"Sometimes it misunderstands instructions and appears dazed or bewildered. Many Trainers don’t mind, finding this behavior to be adorable.",static/Pokemon/goodra.png
+707,VI,Klefki,steel,fairy,"This Pokémon is constantly collecting keys. Entrust a Klefki with important keys, and the Pokémon will protect them no matter what.",static/Pokemon/klefki.png
+708,VI,Phantump,ghost,grass,"After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit’s rebirth as this Pokémon.",static/Pokemon/phantump.png
+709,VI,Trevenant,ghost,grass,"People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it’s kind.",static/Pokemon/trevenant.png
+710,VI,Pumpkaboo,ghost,grass,Spirits that wander this world are placed into Pumpkaboo’s body. They’re then moved on to the afterlife.,static/Pokemon/pumpkaboo.png
+711,VI,Gourgeist,ghost,grass,Eerie cries emanate from its body in the dead of night. The sounds are said to be the wails of spirits who are suffering in the afterlife.,static/Pokemon/gourgeist.png
+712,VI,Bergmite,ice,,"They chill the air around them to −150 degrees Fahrenheit, freezing the water in the air into ice that they use as armor.",static/Pokemon/bergmite.png
+713,VI,Avalugg,ice,,"At high latitudes, this Pokémon can be found with clusters of Bergmite on its back as it swims among the icebergs.",static/Pokemon/avalugg.png
+714,VI,Noibat,flying,dragon,"After nightfall, they emerge from the caves they nest in during the day. Using their ultrasonic waves, they go on the hunt for ripened fruit.",static/Pokemon/noibat.png
+715,VI,Noivern,flying,dragon,"Aggressive and cruel, this Pokémon will ruthlessly torment enemies that are helpless in the dark.",static/Pokemon/noivern.png
+716,VI,Xerneas,fairy,,Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.,static/Pokemon/xerneas.png
+717,VI,Yveltal,dark,flying,"When this legendary Pokémon’s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",static/Pokemon/yveltal.png
+718,VI,Zygarde,dragon,ground,This is Zygarde’s form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.,static/Pokemon/zygarde.png
+719,VI,Diancie,rock,fairy,"A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",static/Pokemon/diancie.png
+720,VI,Hoopa,psychic,ghost,"In its true form, it possesses a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",static/Pokemon/hoopa.png
+721,VI,Volcanion,fire,water,It lets out billows of steam and disappears into the dense fog. It’s said to live in mountains where humans do not tread.,static/Pokemon/volcanion.png
+722,VII,Rowlet,grass,flying,"It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.",static/Pokemon/rowlet.png
+723,VII,Dartrix,grass,flying,"This narcissistic Pokémon is a clean freak. If you don’t groom it diligently, it will stop listening to you.",static/Pokemon/dartrix.png
+724,VII,Decidueye,grass,ghost,"It nocks its arrow quills and shoots them at opponents. When it simply can’t afford to miss, it tugs the vine on its head to improve its focus.",static/Pokemon/decidueye.png
+725,VII,Litten,fire,,"If you try too hard to get close to it, it won’t open up to you. Even if you do grow close, giving it too much affection is still a no-no.",static/Pokemon/litten.png
+726,VII,Torracat,fire,,"It can act spoiled if it grows close to its Trainer. A powerful Pokémon, its sharp claws can leave its Trainer’s whole body covered in scratches.",static/Pokemon/torracat.png
+727,VII,Incineroar,fire,dark,"Although it’s rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.",static/Pokemon/incineroar.png
+728,VII,Popplio,water,,The balloons it inflates with its nose grow larger and larger as it practices day by day.,static/Pokemon/popplio.png
+729,VII,Brionne,water,,It gets excited when it sees a dance it doesn’t know. This hard worker practices diligently until it can learn that dance.,static/Pokemon/brionne.png
+730,VII,Primarina,water,fairy,"To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",static/Pokemon/primarina.png
+731,VII,Pikipek,normal,flying,It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking.,static/Pokemon/pikipek.png
+732,VII,Trumbeak,normal,flying,It can bend the tip of its beak to produce over a hundred different cries at will.,static/Pokemon/trumbeak.png
+733,VII,Toucannon,normal,flying,They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.,static/Pokemon/toucannon.png
+734,VII,Yungoos,normal,,"Its stomach takes up most of its long torso. It’s a big eater, so the amount Trainers have to spend on its food is no laughing matter.",static/Pokemon/yungoos.png
+735,VII,Gumshoos,normal,,"Although it wasn’t originally found in Alola, this Pokémon was brought over a long time ago when there was a huge Rattata outbreak.",static/Pokemon/gumshoos.png
+736,VII,Grubbin,bug,,"Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.",static/Pokemon/grubbin.png
+737,VII,Charjabug,bug,electric,"While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.",static/Pokemon/charjabug.png
+738,VII,Vikavolt,bug,electric,"It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.",static/Pokemon/vikavolt.png
+739,VII,Crabrawler,fighting,,Its hard pincers are well suited to both offense and defense. Fights between two Crabrawler are like boxing matches.,static/Pokemon/crabrawler.png
+740,VII,Crabominable,fighting,ice,It stores coldness in its pincers and pummels its foes. It can even smash thick walls of ice to bits!,static/Pokemon/crabominable.png
+741,VII,Oricorio,fire,flying,It wins the hearts of its enemies with its passionate dancing and then uses the opening it creates to burn them up with blazing flames.,static/Pokemon/oricorio.png
+742,VII,Cutiefly,bug,fairy,"Nectar and pollen are its favorite fare. You can find Cutiefly hovering around Gossifleur, trying to get some of Gossifleur’s pollen.",static/Pokemon/cutiefly.png
+743,VII,Ribombee,bug,fairy,It makes pollen puffs from pollen and nectar. The puffs’ effects depend on the type of ingredients and how much of each one is used.,static/Pokemon/ribombee.png
+744,VII,Rockruff,rock,,"This Pokémon can bond very strongly with its Trainer, but it also has a habit of biting. Raising a Rockruff for a long time can be challenging.",static/Pokemon/rockruff.png
+745,VII,Lycanroc,rock,,This Lycanroc is calm and cautious. The rocks jutting from its mane are razor sharp.,static/Pokemon/lycanroc.png
+746,VII,Wishiwashi,water,,"Individually, they’re incredibly weak. It’s by gathering up into schools that they’re able to confront opponents.",static/Pokemon/wishiwashi.png
+747,VII,Mareanie,poison,water,The first symptom of its sting is numbness. The next is an itching sensation so intense that it’s impossible to resist the urge to claw at your skin.,static/Pokemon/mareanie.png
+748,VII,Toxapex,poison,water,"To survive in the cold waters of Galar, this Pokémon forms a dome with its legs, enclosing its body so it can capture its own body heat.",static/Pokemon/toxapex.png
+749,VII,Mudbray,ground,,Loads weighing up to 50 times as much as its own body weight pose no issue for this Pokémon. It’s skilled at making use of mud.,static/Pokemon/mudbray.png
+750,VII,Mudsdale,ground,,Mud that hardens around a Mudsdale’s legs sets harder than stone. It’s so hard that it allows this Pokémon to scrap a truck with a single kick.,static/Pokemon/mudsdale.png
+751,VII,Dewpider,water,bug,It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.,static/Pokemon/dewpider.png
+752,VII,Araquanid,water,bug,"It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.",static/Pokemon/araquanid.png
+753,VII,Fomantis,grass,,"When bathed in sunlight, this Pokémon emits a pleasantly sweet scent, which causes bug Pokémon to gather around it.",static/Pokemon/fomantis.png
+754,VII,Lurantis,grass,,"This Pokémon resembles a beautiful flower. A properly raised Lurantis will have gorgeous, brilliant colors.",static/Pokemon/lurantis.png
+755,VII,Morelull,grass,fairy,Pokémon living in the forest eat the delicious caps on Morelull’s head. The caps regrow overnight.,static/Pokemon/morelull.png
+756,VII,Shiinotic,grass,fairy,"Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.",static/Pokemon/shiinotic.png
+757,VII,Salandit,poison,fire,Its venom sacs produce a fluid that this Pokémon then heats up with the flame in its tail. This process creates Salandit’s poisonous gas.,static/Pokemon/salandit.png
+758,VII,Salazzle,poison,fire,Only female Salazzle exist. They emit a gas laden with pheromones to captivate male Salandit.,static/Pokemon/salazzle.png
+759,VII,Stufful,normal,fighting,"Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.",static/Pokemon/stufful.png
+760,VII,Bewear,normal,fighting,"Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.",static/Pokemon/bewear.png
+761,VII,Bounsweet,grass,,"Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon.",static/Pokemon/bounsweet.png
+762,VII,Steenee,grass,,"As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness.",static/Pokemon/steenee.png
+763,VII,Tsareena,grass,,"This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents.",static/Pokemon/tsareena.png
+764,VII,Comfey,fairy,,"Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won’t wither once they’re attached to a Comfey.",static/Pokemon/comfey.png
+765,VII,Oranguru,normal,psychic,With waves of its fan—made from leaves and its own fur—Oranguru skillfully gives instructions to other Pokémon.,static/Pokemon/oranguru.png
+766,VII,Passimian,fighting,,"Displaying amazing teamwork, they follow the orders of their boss as they all help out in the search for their favorite berries.",static/Pokemon/passimian.png
+767,VII,Wimpod,bug,water,"It’s nature’s cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",static/Pokemon/wimpod.png
+768,VII,Golisopod,bug,water,"It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",static/Pokemon/golisopod.png
+769,VII,Sandygast,ghost,ground,Grudges of the dead have possessed a mound of sand and become a Pokémon. Sandygast is fond of the shovel on its head.,static/Pokemon/sandygast.png
+770,VII,Palossand,ghost,ground,"Palossand is known as the Beach Nightmare. It pulls its prey down into the sand by controlling the sand itself, and then it sucks out their souls.",static/Pokemon/palossand.png
+771,VII,Pyukumuku,water,,"It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",static/Pokemon/pyukumuku.png
+772,VII,Type: Null,normal,,Rumor has it that the theft of top-secret research notes led to a new instance of this Pokémon being created in the Galar region.,static/Pokemon/type: null.png
+773,VII,Silvally,normal,,A solid bond of trust between this Pokémon and its Trainer awakened the strength hidden within Silvally. It can change its type at will.,static/Pokemon/silvally.png
+774,VII,Minior,rock,flying,"It lives in the ozone layer, where it becomes food for stronger Pokémon. When it tries to run away, it falls to the ground.",static/Pokemon/minior.png
+775,VII,Komala,normal,,"It stays asleep from the moment it’s born. When it falls into a deep sleep, it stops moving altogether.",static/Pokemon/komala.png
+776,VII,Turtonator,fire,dragon,Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.,static/Pokemon/turtonator.png
+777,VII,Togedemaru,electric,steel,"With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.",static/Pokemon/togedemaru.png
+778,VII,Mimikyu,ghost,fairy,"It wears a rag fashioned into a Pikachu costume in an effort to look less scary. Unfortunately, the costume only makes it creepier.",static/Pokemon/mimikyu.png
+779,VII,Bruxish,water,psychic,"It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area.",static/Pokemon/bruxish.png
+780,VII,Drampa,normal,dragon,"The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.",static/Pokemon/drampa.png
+781,VII,Dhelmise,ghost,grass,"After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.",static/Pokemon/dhelmise.png
+782,VII,Jangmo-o,dragon,,They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.,static/Pokemon/jangmo-o.png
+783,VII,Hakamo-o,dragon,fighting,"The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.",static/Pokemon/hakamo-o.png
+784,VII,Kommo-o,dragon,fighting,It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.,static/Pokemon/kommo-o.png
+785,VII,Tapu Koko,electric,fairy,"Although it’s called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.",static/Pokemon/tapu koko.png
+786,VII,Tapu Lele,psychic,fairy,It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala.,static/Pokemon/tapu lele.png
+787,VII,Tapu Bulu,grass,fairy,"Although it’s called a guardian deity, it’s violent enough to crush anyone it sees as an enemy.",static/Pokemon/tapu bulu.png
+788,VII,Tapu Fini,water,fairy,"This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",static/Pokemon/tapu fini.png
+789,VII,Cosmog,psychic,,"Even though its helpless, gaseous body can be blown away by the slightest breeze, it doesn’t seem to care.",static/Pokemon/cosmog.png
+790,VII,Cosmoem,psychic,,The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it.,static/Pokemon/cosmoem.png
+791,VII,Solgaleo,psychic,steel,Sometimes the result of its opening an Ultra Wormhole is that energy and life-forms from other worlds are called here to this world.,static/Pokemon/solgaleo.png
+792,VII,Lunala,psychic,ghost,"Records of it exist in writings from long, long ago, where it was known by the name “the beast that calls the moon.”",static/Pokemon/lunala.png
+793,VII,Nihilego,rock,poison,"A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",static/Pokemon/nihilego.png
+794,VII,Buzzwole,bug,fighting,"Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",static/Pokemon/buzzwole.png
+795,VII,Pheromosa,bug,fighting,"A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",static/Pokemon/pheromosa.png
+796,VII,Xurkitree,electric,,"Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",static/Pokemon/xurkitree.png
+797,VII,Celesteela,steel,flying,"One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",static/Pokemon/celesteela.png
+798,VII,Kartana,grass,steel,"This Ultra Beast’s body, which is as thin as paper, is like a sharpened sword.",static/Pokemon/kartana.png
+799,VII,Guzzlord,dark,dragon,"Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",static/Pokemon/guzzlord.png
+800,VII,Necrozma,psychic,psychic,"It looks somehow pained as it rages around in search of light, which serves as its energy. It’s apparently from another world.",static/Pokemon/necrozma.png
+801,VII,Magearna,steel,fairy,It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.,static/Pokemon/magearna.png
+802,VII,Marshadow,fighting,ghost,"It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it’s imitating.",static/Pokemon/marshadow.png
+803,VII,Poipole,poison,,This Ultra Beast is well enough liked to be chosen as a first partner in its own world.,static/Pokemon/poipole.png
+804,VII,Naganadel,poison,dragon,It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.,static/Pokemon/naganadel.png
+805,VII,Stakataka,rock,steel,It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.,static/Pokemon/stakataka.png
+806,VII,Blacephalon,fire,ghost,"It slithers toward people. Then, without warning, it triggers the explosion of its own head. It’s apparently one kind of Ultra Beast.",static/Pokemon/blacephalon.png
+807,VII,Zeraora,electric,,"It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.",static/Pokemon/zeraora.png
+808,VII,Meltan,steel,,"It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",static/Pokemon/meltan.png
+809,VII,Melmetal,steel,,"At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",static/Pokemon/melmetal.png
+810,VIII,Grookey,grass,,"When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.",static/Pokemon/grookey.png
+811,VIII,Thwackey,grass,,"The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.",static/Pokemon/thwackey.png
+812,VIII,Rillaboom,grass,,"By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.",static/Pokemon/rillaboom.png
+813,VIII,Scorbunny,fire,,"A warm-up of running around gets fire energy coursing through this Pokémon’s body. Once that happens, it’s ready to fight at full power.",static/Pokemon/scorbunny.png
+814,VIII,Raboot,fire,,Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.,static/Pokemon/raboot.png
+815,VIII,Cinderace,fire,,"It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.",static/Pokemon/cinderace.png
+816,VIII,Sobble,water,,"When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won’t be able to resist weeping.",static/Pokemon/sobble.png
+817,VIII,Drizzile,water,,"A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.",static/Pokemon/drizzile.png
+818,VIII,Inteleon,water,,"It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.",static/Pokemon/inteleon.png
+819,VIII,Skwovet,normal,,"Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.",static/Pokemon/skwovet.png
+820,VIII,Greedent,normal,,"It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn’t notice the loss.",static/Pokemon/greedent.png
+821,VIII,Rookidee,flying,,"It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.",static/Pokemon/rookidee.png
+822,VIII,Corvisquire,flying,,"Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.",static/Pokemon/corvisquire.png
+823,VIII,Corviknight,flying,steel,This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.,static/Pokemon/corviknight.png
+824,VIII,Blipbug,bug,,"A constant collector of information, this Pokémon is very smart. Very strong is what it isn’t.",static/Pokemon/blipbug.png
+825,VIII,Dottler,bug,psychic,"It barely moves, but it’s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",static/Pokemon/dottler.png
+826,VIII,Orbeetle,bug,psychic,"It’s famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",static/Pokemon/orbeetle.png
+827,VIII,Nickit,dark,,"Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.",static/Pokemon/nickit.png
+828,VIII,Thievul,dark,,"It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",static/Pokemon/thievul.png
+829,VIII,Gossifleur,grass,,"It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",static/Pokemon/gossifleur.png
+830,VIII,Eldegoss,grass,,The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.,static/Pokemon/eldegoss.png
+831,VIII,Wooloo,normal,,"Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.",static/Pokemon/wooloo.png
+832,VIII,Dubwool,normal,,"Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You’ll start to bounce the moment you set foot on it.",static/Pokemon/dubwool.png
+833,VIII,Chewtle,water,,Apparently the itch of its teething impels it to snap its jaws at anything in front of it.,static/Pokemon/chewtle.png
+834,VIII,Drednaw,water,rock,"With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.",static/Pokemon/drednaw.png
+835,VIII,Yamper,electric,,"This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",static/Pokemon/yamper.png
+836,VIII,Boltund,electric,,This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.,static/Pokemon/boltund.png
+837,VIII,Rolycoly,rock,,"Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.",static/Pokemon/rolycoly.png
+838,VIII,Carkol,rock,fire,It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.,static/Pokemon/carkol.png
+839,VIII,Coalossal,rock,fire,"It’s usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.",static/Pokemon/coalossal.png
+840,VIII,Applin,grass,dragon,"It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it’s just an apple and nothing more.",static/Pokemon/applin.png
+841,VIII,Flapple,grass,dragon,"It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.",static/Pokemon/flapple.png
+842,VIII,Appletun,grass,dragon,"Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.",static/Pokemon/appletun.png
+843,VIII,Silicobra,ground,,"As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.",static/Pokemon/silicobra.png
+844,VIII,Sandaconda,ground,,"When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.",static/Pokemon/sandaconda.png
+845,VIII,Cramorant,flying,water,"It’s so strong that it can knock out some opponents in a single hit, but it also may forget what it’s battling midfight.",static/Pokemon/cramorant.png
+846,VIII,Arrokuda,water,,"If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It’s very proud of that jaw.",static/Pokemon/arrokuda.png
+847,VIII,Barraskewda,water,,"This Pokémon has a jaw that’s as sharp as a spear and as strong as steel. Apparently Barraskewda’s flesh is surprisingly tasty, too.",static/Pokemon/barraskewda.png
+848,VIII,Toxel,electric,poison,"It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.",static/Pokemon/toxel.png
+849,VIII,Toxtricity,electric,poison,"Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.",static/Pokemon/toxtricity.png
+850,VIII,Sizzlipede,fire,bug,It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.,static/Pokemon/sizzlipede.png
+851,VIII,Centiskorch,fire,bug,"When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.",static/Pokemon/centiskorch.png
+852,VIII,Clobbopus,fighting,,"It’s very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.",static/Pokemon/clobbopus.png
+853,VIII,Grapploct,fighting,,A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.,static/Pokemon/grapploct.png
+854,VIII,Sinistea,ghost,,"This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.",static/Pokemon/sinistea.png
+855,VIII,Polteageist,ghost,,"This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.",static/Pokemon/polteageist.png
+856,VIII,Hatenna,psychic,,"Via the protrusion on its head, it senses other creatures’ emotions. If you don’t have a calm disposition, it will never warm up to you.",static/Pokemon/hatenna.png
+857,VIII,Hattrem,psychic,,"No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.",static/Pokemon/hattrem.png
+858,VIII,Hatterene,psychic,fairy,It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.,static/Pokemon/hatterene.png
+859,VIII,Impidimp,dark,fairy,"Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.",static/Pokemon/impidimp.png
+860,VIII,Morgrem,dark,fairy,"When it gets down on all fours as if to beg for forgiveness, it’s trying to lure opponents in so that it can stab them with its spear-like hair.",static/Pokemon/morgrem.png
+861,VIII,Grimmsnarl,dark,fairy,"With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.",static/Pokemon/grimmsnarl.png
+862,VIII,Obstagoon,dark,normal,Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.,static/Pokemon/obstagoon.png
+863,VIII,Perrserker,steel,,What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.,static/Pokemon/perrserker.png
+864,VIII,Cursola,ghost,,Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon’s core spirit.,static/Pokemon/cursola.png
+865,VIII,Sirfetch'd,fighting,,"Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.",static/Pokemon/sirfetch'd.png
+866,VIII,Mr. Rime,ice,psychic,It’s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.,static/Pokemon/mr. rime.png
+867,VIII,Runerigus,ground,ghost,"A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.",static/Pokemon/runerigus.png
+868,VIII,Milcery,fairy,,This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.,static/Pokemon/milcery.png
+869,VIII,Alcremie,fairy,,"When it trusts a Trainer, it will treat them to berries it's decorated with cream.",static/Pokemon/alcremie.png
+870,VIII,Falinks,fighting,,"Five of them are troopers, and one is the brass. The brass’s orders are absolute.",static/Pokemon/falinks.png
+871,VIII,Pincurchin,electric,,"It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.",static/Pokemon/pincurchin.png
+872,VIII,Snom,ice,bug,"It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.",static/Pokemon/snom.png
+873,VIII,Frosmoth,ice,bug,Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.,static/Pokemon/frosmoth.png
+874,VIII,Stonjourner,rock,,"It stands in grasslands, watching the sun’s descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.",static/Pokemon/stonjourner.png
+875,VIII,Eiscue,ice,,It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.,static/Pokemon/eiscue.png
+876,VIII,Indeedee,psychic,normal,"It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.",static/Pokemon/indeedee.png
+877,VIII,Morpeko,electric,dark,"As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It’s also generating electricity.",static/Pokemon/morpeko.png
+878,VIII,Cufant,steel,,"It digs up the ground with its trunk. It’s also very strong, being able to carry loads of over five tons without any problem at all.",static/Pokemon/cufant.png
+879,VIII,Copperajah,steel,,They came over from another region long ago and worked together with humans. Their green skin is resistant to water.,static/Pokemon/copperajah.png
+880,VIII,Dracozolt,electric,dragon,"In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.",static/Pokemon/dracozolt.png
+881,VIII,Arctozolt,electric,ice,The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.,static/Pokemon/arctozolt.png
+882,VIII,Dracovish,water,dragon,Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.,static/Pokemon/dracovish.png
+883,VIII,Arctovish,water,ice,"Though it’s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",static/Pokemon/arctovish.png
+884,VIII,Duraludon,steel,dragon,"Its body resembles polished metal, and it’s both lightweight and strong. The only drawback is that it rusts easily.",static/Pokemon/duraludon.png
+885,VIII,Dreepy,dragon,ghost,"After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.",static/Pokemon/dreepy.png
+886,VIII,Drakloak,dragon,ghost,It’s capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.,static/Pokemon/drakloak.png
+887,VIII,Dragapult,dragon,ghost,"When it isn’t battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.",static/Pokemon/dragapult.png
+888,VIII,Zacian,fairy,fairy,"Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.",static/Pokemon/zacian.png
+889,VIII,Zamazenta,fighting,fighting,"In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.",static/Pokemon/zamazenta.png
+890,VIII,Eternatus,poison,dragon,The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.,static/Pokemon/eternatus.png
+891,VIII,Kubfu,fighting,,Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.,static/Pokemon/kubfu.png
+892,VIII,Urshifu,fighting,dark,This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.,static/Pokemon/urshifu.png
+893,VIII,Zarude,dark,grass,"Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive and the other Pokémon of the forest fear it.",static/Pokemon/zarude.png
+894,VIII,Regieleki,electric,,This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power.,static/Pokemon/regieleki.png
+895,VIII,Regidrago,dragon,,An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.,static/Pokemon/regidrago.png
+896,VIII,Glastrier,ice,,"Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force.",static/Pokemon/glastrier.png
+897,VIII,Spectrier,ghost,,It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body.,static/Pokemon/spectrier.png
+898,VIII,Calyrex,psychic,grass,"Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",static/Pokemon/calyrex.png
