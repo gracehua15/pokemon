@@ -1,0 +1,79 @@
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    console.log("JavaScript is running!");
+
+    // Reference the input and suggestions container
+    const guessInput = document.getElementById('guess');
+    const suggestionsBox = document.getElementById('suggestions');
+
+    // Add event listener for user input
+    guessInput.addEventListener('input', function() {
+        const query = this.value; // Get the user's input
+        console.log("Input event triggered:", query); // Debugging: Log user input
+
+        // If the input is not empty, fetch suggestions
+        if (query.length > 0) {
+            fetch(`/autocomplete?q=${query}`)
+                .then(response => {
+                    console.log("Fetch response:", response); // Debugging: Log fetch response
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json(); // Parse JSON response
+                })
+                .then(data => {
+                    console.log("Suggestions received:", data); // Debugging: Log received suggestions
+
+                    // Clear previous suggestions
+                    suggestionsBox.innerHTML = '';
+
+                    // Render each suggestion
+                    data.forEach(name => {
+                        console.log("Rendering suggestion:", name); // Debugging
+                        const suggestionItem = document.createElement('div');
+                        suggestionItem.className = 'suggestion-item';
+                        suggestionItem.textContent = name;
+
+                        // Add click event to set input value
+                        suggestionItem.addEventListener('click', function() {
+                            guessInput.value = name; // Set input to clicked name
+                            suggestionsBox.innerHTML = ''; // Clear suggestions
+                        });
+
+                        suggestionsBox.appendChild(suggestionItem); // Add to suggestions box
+                    });
+                })
+                .catch(error => console.error("Error in fetch:", error)); // Handle errors
+        } else {
+            // Clear suggestions if input is empty
+            suggestionsBox.innerHTML = '';
+        }
+    });
+});
+</script>
+
+
+
+
+@app.route('/autocomplete', methods=["GET"])
+def autocomplete():
+    query = request.args.get('q', '').lower()  # Get the query parameter
+    if not query:
+        return jsonify([])  # Return an empty list if no query is provided
+
+    try:
+        # Connect to the database
+        conn = sqlite3.connect('pokemon.db')
+        cursor = conn.cursor()
+
+        # Fetch matching Pokémon names
+        cursor.execute('SELECT name FROM pokemon WHERE name LIKE ? LIMIT 10', (query + '%',))
+        results = cursor.fetchall()
+        conn.close()
+
+        # Return names as a JSON response
+        return jsonify([row[0] for row in results])
+    except Exception as e:
+        print(f"Error in /autocomplete: {e}")  # Log the error to the console
+        return jsonify({"error": "An error occurred while fetching suggestions"}), 500

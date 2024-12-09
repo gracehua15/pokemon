@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Results</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <a href="/">
+            <img src="/static/gameover.png" alt="Game Over" id="header-image">
+        </a>
+
+        <p><strong>Game Mode:</strong> {{ game_mode|capitalize }}</p>
+        <p><strong>Generations Played:</strong> {{ generations }}</p>
+        <p><strong>Score:</strong> {{ score }} / {{ total_shown }} </p>
+        {% if game_mode == 'timed' %}
+        <h2>Leaderboard</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Name</th>
+                    <th>Score</th>
+                    <th>Accuracy</th>
+                    <th>Generations</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for entry in leaderboard %}
+                <tr>
+                    <td>{{ loop.index }}</td> <!-- Use loop.index for 1-based ranking -->
+                    <td>{{ entry[0] }}</td>
+                    <td>{{ entry[1] }}</td>
+                    <td>{{ entry[2] }}</td>
+                    <td>{{ entry[3] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endif %}
+        <div class="button-container">
+            <!-- Button to go home -->
+            <form action="/" method="get" style="display: inline;">
+                <button type="submit" class="button">Home</button>
+            </form>
+
+            <!-- Button to go to the leaderboard -->
+            <form action="/leaderboard" method="get" style="display: inline;">
+                <button type="submit" class="button">Leaderboard</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

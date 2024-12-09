@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Leaderboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <a href="/">
+            <img src="/static/leaderboard.png" alt="Leaderboard" id="header-image">
+        </a>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Name</th>
+                    <th>Score</th>
+                    <th>Accuracy</th>
+                    <th>Generations</th>
+                    <th>Timestamp</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for entry in leaderboard %}
+                <tr>
+                    <td>{{ loop.index }}</td> <!-- Use loop.index for 1-based ranking -->
+                    <td>{{ entry[0] }}</td> <!-- Name -->
+                    <td>{{ entry[1] }}</td> <!-- Score -->
+                    <td>{{ entry[2] }}</td> <!-- Accuracy -->
+                    <td>{{ entry[3] }}</td> <!-- Generations -->
+                    <td>{{ entry[4] }}</td> <!-- Timestamp -->
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <form action="/" method="get" style="display: inline;">
+            <button type="submit" class="button" style="margin-top: 30px;">Back to Home</button>
+        </form>
+    </div>
+</body>
+</html>
